@@ -1,0 +1,47 @@
+name: 更新XKCD漫画
+
+on:
+  schedule:
+    - cron: '0 0,8,16 * * *'
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+jobs:
+  run-script:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+    - name: Checkout代码
+      uses: actions/checkout@v4
+      with:
+        fetch-depth: 0
+
+    - name: 设置Python
+      uses: actions/setup-python@v5
+      with:
+        python-version: '3.10'
+
+    - name: 安装依赖
+      run: pip install -r mod.txt
+
+    - name: 运行脚本
+      run: python src/main.py
+
+    - name: 配置Git
+      run: |
+        git config --global user.name "GitHub Actions"
+        git config --global user.email "actions@users.noreply.github.com"
+
+    - name: 提交更改
+      run: |
+        git add .
+        git diff-index --quiet HEAD || git commit -m "自动更新: $(date +'%Y-%m-%d %H:%M')"
+
+    - name: 推送更改
+      uses: ad-m/github-push-action@master # 已验证可用的版本
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        branch: main
