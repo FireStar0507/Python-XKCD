@@ -7,36 +7,36 @@
 
 
 ## 最新漫画
-### Pillar
-No.32
-![图片不见了~~~](https://imgs.xkcd.com/comics/pillar.jpg)
+### Found
+No.48
+![图片不见了~~~](https://imgs.xkcd.com/comics/found.jpg)
 
-[原址](https://xkcd.com//32) [下载](https://imgs.xkcd.com/comics/pillar.jpg)
+[原址](https://xkcd.com//48) [下载](https://imgs.xkcd.com/comics/found.jpg)
 
 
 
 ## 随机漫画
-### Godel, Escher, Kurt Halsey
-No.24
-![图片不见了~~~](https://imgs.xkcd.com/comics/godel_escher_kurthalsey.jpg)
+### Love
+No.44
+![图片不见了~~~](https://imgs.xkcd.com/comics/love.jpg)
 
-[原址](https://xkcd.com//24) [下载](https://imgs.xkcd.com/comics/godel_escher_kurthalsey.jpg)
-
-
-
-### George Clinton
-No.19
-![图片不见了~~~](https://imgs.xkcd.com/comics/george_clinton.jpg)
-
-[原址](https://xkcd.com//19) [下载](https://imgs.xkcd.com/comics/george_clinton.jpg)
+[原址](https://xkcd.com//44) [下载](https://imgs.xkcd.com/comics/love.jpg)
 
 
 
-### Ferret
-No.20
-![图片不见了~~~](https://imgs.xkcd.com/comics/ferret.jpg)
+### Bowl
+No.39
+![图片不见了~~~](https://imgs.xkcd.com/comics/bowl.jpg)
 
-[原址](https://xkcd.com//20) [下载](https://imgs.xkcd.com/comics/ferret.jpg)
+[原址](https://xkcd.com//39) [下载](https://imgs.xkcd.com/comics/bowl.jpg)
+
+
+
+### Scientists
+No.36
+![图片不见了~~~](https://imgs.xkcd.com/comics/scientists.jpg)
+
+[原址](https://xkcd.com//36) [下载](https://imgs.xkcd.com/comics/scientists.jpg)
 
 
 
