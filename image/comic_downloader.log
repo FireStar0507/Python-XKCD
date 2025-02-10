@@ -1,0 +1,34 @@
+2025-02-10 09:20:44,281 - INFO - 最新的编号是: 0
+2025-02-10 09:20:44,562 - INFO - 已写入漫画信息到 /home/runner/work/Python-XKCD/Python-XKCD/image/0001.md
+2025-02-10 09:20:44,991 - INFO - 已写入漫画信息到 /home/runner/work/Python-XKCD/Python-XKCD/image/0002.md
+2025-02-10 09:20:45,820 - INFO - 已写入漫画信息到 /home/runner/work/Python-XKCD/Python-XKCD/image/0003.md
+2025-02-10 09:20:46,506 - INFO - 已写入漫画信息到 /home/runner/work/Python-XKCD/Python-XKCD/image/0004.md
+2025-02-10 09:20:46,935 - INFO - 已写入漫画信息到 /home/runner/work/Python-XKCD/Python-XKCD/image/0005.md
+2025-02-10 09:20:47,448 - INFO - 已写入漫画信息到 /home/runner/work/Python-XKCD/Python-XKCD/image/0006.md
+2025-02-10 09:20:48,134 - INFO - 已写入漫画信息到 /home/runner/work/Python-XKCD/Python-XKCD/image/0007.md
+2025-02-10 09:20:48,822 - INFO - 已写入漫画信息到 /home/runner/work/Python-XKCD/Python-XKCD/image/0008.md
+2025-02-10 09:20:49,506 - INFO - 已写入漫画信息到 /home/runner/work/Python-XKCD/Python-XKCD/image/0009.md
+2025-02-10 09:20:49,824 - INFO - 已写入漫画信息到 /home/runner/work/Python-XKCD/Python-XKCD/image/0010.md
+2025-02-10 09:20:50,511 - INFO - 已写入漫画信息到 /home/runner/work/Python-XKCD/Python-XKCD/image/0011.md
+2025-02-10 09:20:51,199 - INFO - 已写入漫画信息到 /home/runner/work/Python-XKCD/Python-XKCD/image/0012.md
+2025-02-10 09:20:51,884 - INFO - 已写入漫画信息到 /home/runner/work/Python-XKCD/Python-XKCD/image/0013.md
+2025-02-10 09:20:52,569 - INFO - 已写入漫画信息到 /home/runner/work/Python-XKCD/Python-XKCD/image/0014.md
+2025-02-10 09:20:53,255 - INFO - 已写入漫画信息到 /home/runner/work/Python-XKCD/Python-XKCD/image/0015.md
+2025-02-10 09:20:53,942 - INFO - 已写入漫画信息到 /home/runner/work/Python-XKCD/Python-XKCD/image/0016.md
+2025-02-10 09:20:54,193 - INFO - 已移动: 0001.md 到 /home/runner/work/Python-XKCD/Python-XKCD/image/0001-1000/0001-0100/0001-0010
+2025-02-10 09:20:54,193 - INFO - 已移动: 0002.md 到 /home/runner/work/Python-XKCD/Python-XKCD/image/0001-1000/0001-0100/0001-0010
+2025-02-10 09:20:54,193 - INFO - 已移动: 0003.md 到 /home/runner/work/Python-XKCD/Python-XKCD/image/0001-1000/0001-0100/0001-0010
+2025-02-10 09:20:54,194 - INFO - 已移动: 0004.md 到 /home/runner/work/Python-XKCD/Python-XKCD/image/0001-1000/0001-0100/0001-0010
+2025-02-10 09:20:54,194 - INFO - 已移动: 0005.md 到 /home/runner/work/Python-XKCD/Python-XKCD/image/0001-1000/0001-0100/0001-0010
+2025-02-10 09:20:54,194 - INFO - 已移动: 0006.md 到 /home/runner/work/Python-XKCD/Python-XKCD/image/0001-1000/0001-0100/0001-0010
+2025-02-10 09:20:54,194 - INFO - 已移动: 0007.md 到 /home/runner/work/Python-XKCD/Python-XKCD/image/0001-1000/0001-0100/0001-0010
+2025-02-10 09:20:54,194 - INFO - 已移动: 0008.md 到 /home/runner/work/Python-XKCD/Python-XKCD/image/0001-1000/0001-0100/0001-0010
+2025-02-10 09:20:54,195 - INFO - 已移动: 0009.md 到 /home/runner/work/Python-XKCD/Python-XKCD/image/0001-1000/0001-0100/0001-0010
+2025-02-10 09:20:54,195 - INFO - 已移动: 0010.md 到 /home/runner/work/Python-XKCD/Python-XKCD/image/0001-1000/0001-0100/0001-0010
+2025-02-10 09:20:54,195 - INFO - 已移动: 0011.md 到 /home/runner/work/Python-XKCD/Python-XKCD/image/0001-1000/0001-0100/0011-0020
+2025-02-10 09:20:54,195 - INFO - 已移动: 0012.md 到 /home/runner/work/Python-XKCD/Python-XKCD/image/0001-1000/0001-0100/0011-0020
+2025-02-10 09:20:54,195 - INFO - 已移动: 0013.md 到 /home/runner/work/Python-XKCD/Python-XKCD/image/0001-1000/0001-0100/0011-0020
+2025-02-10 09:20:54,195 - INFO - 已移动: 0014.md 到 /home/runner/work/Python-XKCD/Python-XKCD/image/0001-1000/0001-0100/0011-0020
+2025-02-10 09:20:54,196 - INFO - 已移动: 0015.md 到 /home/runner/work/Python-XKCD/Python-XKCD/image/0001-1000/0001-0100/0011-0020
+2025-02-10 09:20:54,196 - INFO - 已移动: 0016.md 到 /home/runner/work/Python-XKCD/Python-XKCD/image/0001-1000/0001-0100/0011-0020
+2025-02-10 09:20:54,196 - INFO - 已生成 README.md

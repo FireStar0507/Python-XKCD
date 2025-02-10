@@ -7,36 +7,36 @@
 
 
 ## 最新漫画
-### My Other Car
-No.80
-![图片不见了~~~](https://imgs.xkcd.com/comics/other_car.jpg)
+### Monty Python -- Enough
+No.16
+![图片不见了~~~](https://imgs.xkcd.com/comics/monty_python.jpg)
 
-[原址](https://xkcd.com//80) [下载](https://imgs.xkcd.com/comics/other_car.jpg)
+[原址](https://xkcd.com//16) [下载](https://imgs.xkcd.com/comics/monty_python.jpg)
 
 
 
 ## 随机漫画
-### Su Doku
-No.74
-![图片不见了~~~](https://imgs.xkcd.com/comics/su_doku.jpg)
+### Just Alerting You
+No.15
+![图片不见了~~~](https://imgs.xkcd.com/comics/just_alerting_you.jpg)
 
-[原址](https://xkcd.com//74) [下载](https://imgs.xkcd.com/comics/su_doku.jpg)
-
-
-
-### Guitar Hero
-No.70
-![图片不见了~~~](https://imgs.xkcd.com/comics/guitar_hero.jpg)
-
-[原址](https://xkcd.com//70) [下载](https://imgs.xkcd.com/comics/guitar_hero.jpg)
+[原址](https://xkcd.com//15) [下载](https://imgs.xkcd.com/comics/just_alerting_you.jpg)
 
 
 
-### Pillow Talk
-No.69
-![图片不见了~~~](https://imgs.xkcd.com/comics/pillow_talk.jpg)
+### Petit Trees (sketch)
+No.2
+![图片不见了~~~](https://imgs.xkcd.com/comics/tree_cropped_(1).jpg)
 
-[原址](https://xkcd.com//69) [下载](https://imgs.xkcd.com/comics/pillow_talk.jpg)
+[原址](https://xkcd.com//2) [下载](https://imgs.xkcd.com/comics/tree_cropped_(1).jpg)
+
+
+
+### Barrel - Part 1
+No.1
+![图片不见了~~~](https://imgs.xkcd.com/comics/barrel_cropped_(1).jpg)
+
+[原址](https://xkcd.com//1) [下载](https://imgs.xkcd.com/comics/barrel_cropped_(1).jpg)
 
 
 
