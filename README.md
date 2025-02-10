@@ -7,36 +7,36 @@
 
 
 ## 最新漫画
-### Monty Python -- Enough
-No.16
-![图片不见了~~~](https://imgs.xkcd.com/comics/monty_python.jpg)
+### Pillar
+No.32
+![图片不见了~~~](https://imgs.xkcd.com/comics/pillar.jpg)
 
-[原址](https://xkcd.com//16) [下载](https://imgs.xkcd.com/comics/monty_python.jpg)
+[原址](https://xkcd.com//32) [下载](https://imgs.xkcd.com/comics/pillar.jpg)
 
 
 
 ## 随机漫画
-### Just Alerting You
-No.15
-![图片不见了~~~](https://imgs.xkcd.com/comics/just_alerting_you.jpg)
+### Godel, Escher, Kurt Halsey
+No.24
+![图片不见了~~~](https://imgs.xkcd.com/comics/godel_escher_kurthalsey.jpg)
 
-[原址](https://xkcd.com//15) [下载](https://imgs.xkcd.com/comics/just_alerting_you.jpg)
-
-
-
-### Petit Trees (sketch)
-No.2
-![图片不见了~~~](https://imgs.xkcd.com/comics/tree_cropped_(1).jpg)
-
-[原址](https://xkcd.com//2) [下载](https://imgs.xkcd.com/comics/tree_cropped_(1).jpg)
+[原址](https://xkcd.com//24) [下载](https://imgs.xkcd.com/comics/godel_escher_kurthalsey.jpg)
 
 
 
-### Barrel - Part 1
-No.1
-![图片不见了~~~](https://imgs.xkcd.com/comics/barrel_cropped_(1).jpg)
+### George Clinton
+No.19
+![图片不见了~~~](https://imgs.xkcd.com/comics/george_clinton.jpg)
 
-[原址](https://xkcd.com//1) [下载](https://imgs.xkcd.com/comics/barrel_cropped_(1).jpg)
+[原址](https://xkcd.com//19) [下载](https://imgs.xkcd.com/comics/george_clinton.jpg)
+
+
+
+### Ferret
+No.20
+![图片不见了~~~](https://imgs.xkcd.com/comics/ferret.jpg)
+
+[原址](https://xkcd.com//20) [下载](https://imgs.xkcd.com/comics/ferret.jpg)
 
 
 
