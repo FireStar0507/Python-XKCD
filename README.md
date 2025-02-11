@@ -7,36 +7,36 @@
 
 
 ## 最新漫画
-### Penny Arcade Parody
-No.160
-![图片不见了~~~](https://imgs.xkcd.com/comics/penny_arcade_parody.png)
+### Working for Google
+No.192
+![图片不见了~~~](https://imgs.xkcd.com/comics/working_for_google.png)
 
-[原址](https://xkcd.com//160) [下载](https://imgs.xkcd.com/comics/penny_arcade_parody.png)
+[原址](https://xkcd.com//192) [下载](https://imgs.xkcd.com/comics/working_for_google.png)
 
 
 
 ## 随机漫画
-### Commented
-No.156
-![图片不见了~~~](https://imgs.xkcd.com/comics/commented.png)
+### Donald Knuth
+No.163
+![图片不见了~~~](https://imgs.xkcd.com/comics/donald_knuth.png)
 
-[原址](https://xkcd.com//156) [下载](https://imgs.xkcd.com/comics/commented.png)
-
-
-
-### Mispronouncing
-No.148
-![图片不见了~~~](https://imgs.xkcd.com/comics/mispronouncing.png)
-
-[原址](https://xkcd.com//148) [下载](https://imgs.xkcd.com/comics/mispronouncing.png)
+[原址](https://xkcd.com//163) [下载](https://imgs.xkcd.com/comics/donald_knuth.png)
 
 
 
-### Grownups
-No.150
-![图片不见了~~~](https://imgs.xkcd.com/comics/grownups.png)
+### Lojban
+No.191
+![图片不见了~~~](https://imgs.xkcd.com/comics/lojban.png)
 
-[原址](https://xkcd.com//150) [下载](https://imgs.xkcd.com/comics/grownups.png)
+[原址](https://xkcd.com//191) [下载](https://imgs.xkcd.com/comics/lojban.png)
+
+
+
+### Angular Momentum
+No.162
+![图片不见了~~~](https://imgs.xkcd.com/comics/angular_momentum.jpg)
+
+[原址](https://xkcd.com//162) [下载](https://imgs.xkcd.com/comics/angular_momentum.jpg)
 
 
 
