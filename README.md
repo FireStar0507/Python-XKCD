@@ -7,36 +7,36 @@
 
 
 ## 最新漫画
-### Solar Plexus
-No.64
-![图片不见了~~~](https://imgs.xkcd.com/comics/solar_plexus.jpg)
+### Mail
+No.96
+![图片不见了~~~](https://imgs.xkcd.com/comics/mail.png)
 
-[原址](https://xkcd.com//64) [下载](https://imgs.xkcd.com/comics/solar_plexus.jpg)
+[原址](https://xkcd.com//96) [下载](https://imgs.xkcd.com/comics/mail.png)
 
 
 
 ## 随机漫画
-### Hobby
-No.53
-![图片不见了~~~](https://imgs.xkcd.com/comics/hobby.jpg)
+### Familiar
+No.76
+![图片不见了~~~](https://imgs.xkcd.com/comics/familiar.jpg)
 
-[原址](https://xkcd.com//53) [下载](https://imgs.xkcd.com/comics/hobby.jpg)
-
-
-
-### Penny Arcade
-No.50
-![图片不见了~~~](https://imgs.xkcd.com/comics/penny_arcade.jpg)
-
-[原址](https://xkcd.com//50) [下载](https://imgs.xkcd.com/comics/penny_arcade.jpg)
+[原址](https://xkcd.com//76) [下载](https://imgs.xkcd.com/comics/familiar.jpg)
 
 
 
-### Solar Plexus
-No.64
-![图片不见了~~~](https://imgs.xkcd.com/comics/solar_plexus.jpg)
+### My Other Car
+No.80
+![图片不见了~~~](https://imgs.xkcd.com/comics/other_car.jpg)
 
-[原址](https://xkcd.com//64) [下载](https://imgs.xkcd.com/comics/solar_plexus.jpg)
+[原址](https://xkcd.com//80) [下载](https://imgs.xkcd.com/comics/other_car.jpg)
+
+
+
+### Digital Rights Management
+No.86
+![图片不见了~~~](https://imgs.xkcd.com/comics/sony_microsoft_mpaa_riaa_apple.jpg)
+
+[原址](https://xkcd.com//86) [下载](https://imgs.xkcd.com/comics/sony_microsoft_mpaa_riaa_apple.jpg)
 
 
 
