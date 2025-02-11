@@ -7,36 +7,36 @@
 
 
 ## 最新漫画
-### dPain over dt
-No.128
-![图片不见了~~~](https://imgs.xkcd.com/comics/dPain_over_dt.png)
+### Penny Arcade Parody
+No.160
+![图片不见了~~~](https://imgs.xkcd.com/comics/penny_arcade_parody.png)
 
-[原址](https://xkcd.com//128) [下载](https://imgs.xkcd.com/comics/dPain_over_dt.png)
+[原址](https://xkcd.com//160) [下载](https://imgs.xkcd.com/comics/penny_arcade_parody.png)
 
 
 
 ## 随机漫画
-### M.C. Hammer Slide
-No.108
-![图片不见了~~~](https://imgs.xkcd.com/comics/mc_hammer_slide.png)
+### Commented
+No.156
+![图片不见了~~~](https://imgs.xkcd.com/comics/commented.png)
 
-[原址](https://xkcd.com//108) [下载](https://imgs.xkcd.com/comics/mc_hammer_slide.png)
-
-
-
-### Spoiler Alert
-No.109
-![图片不见了~~~](https://imgs.xkcd.com/comics/spoiler_alert.png)
-
-[原址](https://xkcd.com//109) [下载](https://imgs.xkcd.com/comics/spoiler_alert.png)
+[原址](https://xkcd.com//156) [下载](https://imgs.xkcd.com/comics/commented.png)
 
 
 
-### Computational Linguists
-No.114
-![图片不见了~~~](https://imgs.xkcd.com/comics/computational_linguists.png)
+### Mispronouncing
+No.148
+![图片不见了~~~](https://imgs.xkcd.com/comics/mispronouncing.png)
 
-[原址](https://xkcd.com//114) [下载](https://imgs.xkcd.com/comics/computational_linguists.png)
+[原址](https://xkcd.com//148) [下载](https://imgs.xkcd.com/comics/mispronouncing.png)
+
+
+
+### Grownups
+No.150
+![图片不见了~~~](https://imgs.xkcd.com/comics/grownups.png)
+
+[原址](https://xkcd.com//150) [下载](https://imgs.xkcd.com/comics/grownups.png)
 
 
 
