@@ -7,36 +7,36 @@
 
 
 ## 最新漫画
-### Mail
-No.96
-![图片不见了~~~](https://imgs.xkcd.com/comics/mail.png)
+### dPain over dt
+No.128
+![图片不见了~~~](https://imgs.xkcd.com/comics/dPain_over_dt.png)
 
-[原址](https://xkcd.com//96) [下载](https://imgs.xkcd.com/comics/mail.png)
+[原址](https://xkcd.com//128) [下载](https://imgs.xkcd.com/comics/dPain_over_dt.png)
 
 
 
 ## 随机漫画
-### Familiar
-No.76
-![图片不见了~~~](https://imgs.xkcd.com/comics/familiar.jpg)
+### M.C. Hammer Slide
+No.108
+![图片不见了~~~](https://imgs.xkcd.com/comics/mc_hammer_slide.png)
 
-[原址](https://xkcd.com//76) [下载](https://imgs.xkcd.com/comics/familiar.jpg)
-
-
-
-### My Other Car
-No.80
-![图片不见了~~~](https://imgs.xkcd.com/comics/other_car.jpg)
-
-[原址](https://xkcd.com//80) [下载](https://imgs.xkcd.com/comics/other_car.jpg)
+[原址](https://xkcd.com//108) [下载](https://imgs.xkcd.com/comics/mc_hammer_slide.png)
 
 
 
-### Digital Rights Management
-No.86
-![图片不见了~~~](https://imgs.xkcd.com/comics/sony_microsoft_mpaa_riaa_apple.jpg)
+### Spoiler Alert
+No.109
+![图片不见了~~~](https://imgs.xkcd.com/comics/spoiler_alert.png)
 
-[原址](https://xkcd.com//86) [下载](https://imgs.xkcd.com/comics/sony_microsoft_mpaa_riaa_apple.jpg)
+[原址](https://xkcd.com//109) [下载](https://imgs.xkcd.com/comics/spoiler_alert.png)
+
+
+
+### Computational Linguists
+No.114
+![图片不见了~~~](https://imgs.xkcd.com/comics/computational_linguists.png)
+
+[原址](https://xkcd.com//114) [下载](https://imgs.xkcd.com/comics/computational_linguists.png)
 
 
 
