@@ -7,36 +7,36 @@
 
 
 ## 最新漫画
-### Found
-No.48
-![图片不见了~~~](https://imgs.xkcd.com/comics/found.jpg)
+### Solar Plexus
+No.64
+![图片不见了~~~](https://imgs.xkcd.com/comics/solar_plexus.jpg)
 
-[原址](https://xkcd.com//48) [下载](https://imgs.xkcd.com/comics/found.jpg)
+[原址](https://xkcd.com//64) [下载](https://imgs.xkcd.com/comics/solar_plexus.jpg)
 
 
 
 ## 随机漫画
-### Love
-No.44
-![图片不见了~~~](https://imgs.xkcd.com/comics/love.jpg)
+### Hobby
+No.53
+![图片不见了~~~](https://imgs.xkcd.com/comics/hobby.jpg)
 
-[原址](https://xkcd.com//44) [下载](https://imgs.xkcd.com/comics/love.jpg)
-
-
-
-### Bowl
-No.39
-![图片不见了~~~](https://imgs.xkcd.com/comics/bowl.jpg)
-
-[原址](https://xkcd.com//39) [下载](https://imgs.xkcd.com/comics/bowl.jpg)
+[原址](https://xkcd.com//53) [下载](https://imgs.xkcd.com/comics/hobby.jpg)
 
 
 
-### Scientists
-No.36
-![图片不见了~~~](https://imgs.xkcd.com/comics/scientists.jpg)
+### Penny Arcade
+No.50
+![图片不见了~~~](https://imgs.xkcd.com/comics/penny_arcade.jpg)
 
-[原址](https://xkcd.com//36) [下载](https://imgs.xkcd.com/comics/scientists.jpg)
+[原址](https://xkcd.com//50) [下载](https://imgs.xkcd.com/comics/penny_arcade.jpg)
+
+
+
+### Solar Plexus
+No.64
+![图片不见了~~~](https://imgs.xkcd.com/comics/solar_plexus.jpg)
+
+[原址](https://xkcd.com//64) [下载](https://imgs.xkcd.com/comics/solar_plexus.jpg)
 
 
 
