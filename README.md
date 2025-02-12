@@ -7,36 +7,36 @@
 
 
 ## 最新漫画
-### Online Communities
-No.256
-![图片不见了~~~](https://imgs.xkcd.com/comics/online_communities_small.png)
+### Elevator
+No.288
+![图片不见了~~~](https://imgs.xkcd.com/comics/elevator.jpg)
 
-[原址](https://xkcd.com//256) [下载](https://imgs.xkcd.com/comics/online_communities_small.png)
+[原址](https://xkcd.com//288) [下载](https://imgs.xkcd.com/comics/elevator.jpg)
 
 
 
 ## 随机漫画
-### Subjectivity
-No.255
-![图片不见了~~~](https://imgs.xkcd.com/comics/subjectivity.png)
+### Elevator
+No.288
+![图片不见了~~~](https://imgs.xkcd.com/comics/elevator.jpg)
 
-[原址](https://xkcd.com//255) [下载](https://imgs.xkcd.com/comics/subjectivity.png)
-
-
-
-### Kite
-No.235
-![图片不见了~~~](https://imgs.xkcd.com/comics/kite.jpg)
-
-[原址](https://xkcd.com//235) [下载](https://imgs.xkcd.com/comics/kite.jpg)
+[原址](https://xkcd.com//288) [下载](https://imgs.xkcd.com/comics/elevator.jpg)
 
 
 
-### Color Codes
-No.227
-![图片不见了~~~](https://imgs.xkcd.com/comics/color_codes.png)
+### Black Hat Support
+No.278
+![图片不见了~~~](https://imgs.xkcd.com/comics/black_hat_support.png)
 
-[原址](https://xkcd.com//227) [下载](https://imgs.xkcd.com/comics/color_codes.png)
+[原址](https://xkcd.com//278) [下载](https://imgs.xkcd.com/comics/black_hat_support.png)
+
+
+
+### Powers of One
+No.271
+![图片不见了~~~](https://imgs.xkcd.com/comics/powers_of_one.png)
+
+[原址](https://xkcd.com//271) [下载](https://imgs.xkcd.com/comics/powers_of_one.png)
 
 
 
