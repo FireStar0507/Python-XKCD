@@ -7,36 +7,36 @@
 
 
 ## 最新漫画
-### Working for Google
-No.192
-![图片不见了~~~](https://imgs.xkcd.com/comics/working_for_google.png)
+### Lisp
+No.224
+![图片不见了~~~](https://imgs.xkcd.com/comics/lisp.jpg)
 
-[原址](https://xkcd.com//192) [下载](https://imgs.xkcd.com/comics/working_for_google.png)
+[原址](https://xkcd.com//224) [下载](https://imgs.xkcd.com/comics/lisp.jpg)
 
 
 
 ## 随机漫画
-### Donald Knuth
-No.163
-![图片不见了~~~](https://imgs.xkcd.com/comics/donald_knuth.png)
+### Philosophy
+No.220
+![图片不见了~~~](https://imgs.xkcd.com/comics/philosophy.png)
 
-[原址](https://xkcd.com//163) [下载](https://imgs.xkcd.com/comics/donald_knuth.png)
-
-
-
-### Lojban
-No.191
-![图片不见了~~~](https://imgs.xkcd.com/comics/lojban.png)
-
-[原址](https://xkcd.com//191) [下载](https://imgs.xkcd.com/comics/lojban.png)
+[原址](https://xkcd.com//220) [下载](https://imgs.xkcd.com/comics/philosophy.png)
 
 
 
-### Angular Momentum
-No.162
-![图片不见了~~~](https://imgs.xkcd.com/comics/angular_momentum.jpg)
+### Brain
+No.212
+![图片不见了~~~](https://imgs.xkcd.com/comics/brain.png)
 
-[原址](https://xkcd.com//162) [下载](https://imgs.xkcd.com/comics/angular_momentum.jpg)
+[原址](https://xkcd.com//212) [下载](https://imgs.xkcd.com/comics/brain.png)
+
+
+
+### Small Talk
+No.222
+![图片不见了~~~](https://imgs.xkcd.com/comics/small_talk.png)
+
+[原址](https://xkcd.com//222) [下载](https://imgs.xkcd.com/comics/small_talk.png)
 
 
 
