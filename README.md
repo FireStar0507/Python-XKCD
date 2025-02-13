@@ -7,36 +7,36 @@
 
 
 ## 最新漫画
-### Elevator
-No.288
-![图片不见了~~~](https://imgs.xkcd.com/comics/elevator.jpg)
+### 28-Hour Day
+No.320
+![图片不见了~~~](https://imgs.xkcd.com/comics/28_hour_day.png)
 
-[原址](https://xkcd.com//288) [下载](https://imgs.xkcd.com/comics/elevator.jpg)
+[原址](https://xkcd.com//320) [下载](https://imgs.xkcd.com/comics/28_hour_day.png)
 
 
 
 ## 随机漫画
-### Elevator
-No.288
-![图片不见了~~~](https://imgs.xkcd.com/comics/elevator.jpg)
+### Excessive Quotation
+No.307
+![图片不见了~~~](https://imgs.xkcd.com/comics/excessive_quotation.png)
 
-[原址](https://xkcd.com//288) [下载](https://imgs.xkcd.com/comics/elevator.jpg)
-
-
-
-### Black Hat Support
-No.278
-![图片不见了~~~](https://imgs.xkcd.com/comics/black_hat_support.png)
-
-[原址](https://xkcd.com//278) [下载](https://imgs.xkcd.com/comics/black_hat_support.png)
+[原址](https://xkcd.com//307) [下载](https://imgs.xkcd.com/comics/excessive_quotation.png)
 
 
 
-### Powers of One
-No.271
-![图片不见了~~~](https://imgs.xkcd.com/comics/powers_of_one.png)
+### Nighttime Stories
+No.304
+![图片不见了~~~](https://imgs.xkcd.com/comics/nighttime_stories.jpg)
 
-[原址](https://xkcd.com//271) [下载](https://imgs.xkcd.com/comics/powers_of_one.png)
+[原址](https://xkcd.com//304) [下载](https://imgs.xkcd.com/comics/nighttime_stories.jpg)
+
+
+
+### Orphaned Projects
+No.306
+![图片不见了~~~](https://imgs.xkcd.com/comics/orphaned_projects.png)
+
+[原址](https://xkcd.com//306) [下载](https://imgs.xkcd.com/comics/orphaned_projects.png)
 
 
 
