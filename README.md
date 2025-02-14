@@ -7,36 +7,36 @@
 
 
 ## 最新漫画
-### The Drake Equation
-No.384
-![图片不见了~~~](https://imgs.xkcd.com/comics/the_drake_equation.png)
+### Zealous Autoconfig
+No.416
+![图片不见了~~~](https://imgs.xkcd.com/comics/zealous_autoconfig.png)
 
-[原址](https://xkcd.com//384) [下载](https://imgs.xkcd.com/comics/the_drake_equation.png)
+[原址](https://xkcd.com//416) [下载](https://imgs.xkcd.com/comics/zealous_autoconfig.png)
 
 
 
 ## 随机漫画
-### Rock Band
-No.359
-![图片不见了~~~](https://imgs.xkcd.com/comics/rock_band.png)
+### The Ring
+No.396
+![图片不见了~~~](https://imgs.xkcd.com/comics/the_ring.png)
 
-[原址](https://xkcd.com//359) [下载](https://imgs.xkcd.com/comics/rock_band.png)
-
-
-
-### Nerd Sniping
-No.356
-![图片不见了~~~](https://imgs.xkcd.com/comics/nerd_sniping.png)
-
-[原址](https://xkcd.com//356) [下载](https://imgs.xkcd.com/comics/nerd_sniping.png)
+[原址](https://xkcd.com//396) [下载](https://imgs.xkcd.com/comics/the_ring.png)
 
 
 
-### Dangers
-No.369
-![图片不见了~~~](https://imgs.xkcd.com/comics/dangers.png)
+### Zealous Autoconfig
+No.416
+![图片不见了~~~](https://imgs.xkcd.com/comics/zealous_autoconfig.png)
 
-[原址](https://xkcd.com//369) [下载](https://imgs.xkcd.com/comics/dangers.png)
+[原址](https://xkcd.com//416) [下载](https://imgs.xkcd.com/comics/zealous_autoconfig.png)
+
+
+
+### Techno
+No.411
+![图片不见了~~~](https://imgs.xkcd.com/comics/techno.png)
+
+[原址](https://xkcd.com//411) [下载](https://imgs.xkcd.com/comics/techno.png)
 
 
 
