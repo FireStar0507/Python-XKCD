@@ -7,36 +7,36 @@
 
 
 ## 最新漫画
-### Spore
-No.480
-![图片不见了~~~](https://imgs.xkcd.com/comics/spore.png)
+### Alternate Currency
+No.512
+![图片不见了~~~](https://imgs.xkcd.com/comics/alternate_currency.png)
 
-[原址](https://xkcd.com//480) [下载](https://imgs.xkcd.com/comics/spore.png)
+[原址](https://xkcd.com//512) [下载](https://imgs.xkcd.com/comics/alternate_currency.png)
 
 
 
 ## 随机漫画
-### Still Raw
-No.473
-![图片不见了~~~](https://imgs.xkcd.com/comics/still_raw.png)
+### Scrabble
+No.492
+![图片不见了~~~](https://imgs.xkcd.com/comics/scrabble.png)
 
-[原址](https://xkcd.com//473) [下载](https://imgs.xkcd.com/comics/still_raw.png)
-
-
-
-### Holy Ghost
-No.459
-![图片不见了~~~](https://imgs.xkcd.com/comics/holy_ghost.png)
-
-[原址](https://xkcd.com//459) [下载](https://imgs.xkcd.com/comics/holy_ghost.png)
+[原址](https://xkcd.com//492) [下载](https://imgs.xkcd.com/comics/scrabble.png)
 
 
 
-### Regrets
-No.458
-![图片不见了~~~](https://imgs.xkcd.com/comics/regrets.png)
+### Drapes
+No.508
+![图片不见了~~~](https://imgs.xkcd.com/comics/drapes.png)
 
-[原址](https://xkcd.com//458) [下载](https://imgs.xkcd.com/comics/regrets.png)
+[原址](https://xkcd.com//508) [下载](https://imgs.xkcd.com/comics/drapes.png)
+
+
+
+### Theft of the Magi
+No.506
+![图片不见了~~~](https://imgs.xkcd.com/comics/theft_of_the_magi.png)
+
+[原址](https://xkcd.com//506) [下载](https://imgs.xkcd.com/comics/theft_of_the_magi.png)
 
 
 
