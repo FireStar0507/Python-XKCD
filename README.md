@@ -7,36 +7,36 @@
 
 
 ## 最新漫画
-### Alternate Currency
-No.512
-![图片不见了~~~](https://imgs.xkcd.com/comics/alternate_currency.png)
+### Pep Talk
+No.544
+![图片不见了~~~](https://imgs.xkcd.com/comics/pep_talk.png)
 
-[原址](https://xkcd.com//512) [下载](https://imgs.xkcd.com/comics/alternate_currency.png)
+[原址](https://xkcd.com//544) [下载](https://imgs.xkcd.com/comics/pep_talk.png)
 
 
 
 ## 随机漫画
-### Scrabble
-No.492
-![图片不见了~~~](https://imgs.xkcd.com/comics/scrabble.png)
+### Decline
+No.523
+![图片不见了~~~](https://imgs.xkcd.com/comics/decline.png)
 
-[原址](https://xkcd.com//492) [下载](https://imgs.xkcd.com/comics/scrabble.png)
-
-
-
-### Drapes
-No.508
-![图片不见了~~~](https://imgs.xkcd.com/comics/drapes.png)
-
-[原址](https://xkcd.com//508) [下载](https://imgs.xkcd.com/comics/drapes.png)
+[原址](https://xkcd.com//523) [下载](https://imgs.xkcd.com/comics/decline.png)
 
 
 
-### Theft of the Magi
-No.506
-![图片不见了~~~](https://imgs.xkcd.com/comics/theft_of_the_magi.png)
+### Contingency Plan
+No.531
+![图片不见了~~~](https://imgs.xkcd.com/comics/contingency_plan.png)
 
-[原址](https://xkcd.com//506) [下载](https://imgs.xkcd.com/comics/theft_of_the_magi.png)
+[原址](https://xkcd.com//531) [下载](https://imgs.xkcd.com/comics/contingency_plan.png)
+
+
+
+### Marshmallow Gun
+No.517
+![图片不见了~~~](https://imgs.xkcd.com/comics/marshmallow_gun.png)
+
+[原址](https://xkcd.com//517) [下载](https://imgs.xkcd.com/comics/marshmallow_gun.png)
 
 
 
