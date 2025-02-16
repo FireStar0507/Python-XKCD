@@ -7,36 +7,36 @@
 
 
 ## 最新漫画
-### Form
-No.608
-![图片不见了~~~](https://imgs.xkcd.com/comics/form.png)
+### Tornado Hunter
+No.640
+![图片不见了~~~](https://imgs.xkcd.com/comics/tornado_hunter.png)
 
-[原址](https://xkcd.com//608) [下载](https://imgs.xkcd.com/comics/form.png)
+[原址](https://xkcd.com//640) [下载](https://imgs.xkcd.com/comics/tornado_hunter.png)
 
 
 
 ## 随机漫画
-### Apocalypse
-No.599
-![图片不见了~~~](https://imgs.xkcd.com/comics/apocalypse.png)
+### Collections
+No.625
+![图片不见了~~~](https://imgs.xkcd.com/comics/collections.png)
 
-[原址](https://xkcd.com//599) [下载](https://imgs.xkcd.com/comics/apocalypse.png)
-
-
-
-### Android Girlfriend
-No.595
-![图片不见了~~~](https://imgs.xkcd.com/comics/android_girlfriend.png)
-
-[原址](https://xkcd.com//595) [下载](https://imgs.xkcd.com/comics/android_girlfriend.png)
+[原址](https://xkcd.com//625) [下载](https://imgs.xkcd.com/comics/collections.png)
 
 
 
-### Game Theory
-No.601
-![图片不见了~~~](https://imgs.xkcd.com/comics/game_theory.png)
+### Brontosaurus
+No.636
+![图片不见了~~~](https://imgs.xkcd.com/comics/brontosaurus.png)
 
-[原址](https://xkcd.com//601) [下载](https://imgs.xkcd.com/comics/game_theory.png)
+[原址](https://xkcd.com//636) [下载](https://imgs.xkcd.com/comics/brontosaurus.png)
+
+
+
+### Lincoln-Douglas
+No.639
+![图片不见了~~~](https://imgs.xkcd.com/comics/lincoln_douglas.png)
+
+[原址](https://xkcd.com//639) [下载](https://imgs.xkcd.com/comics/lincoln_douglas.png)
 
 
 
