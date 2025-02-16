@@ -7,36 +7,36 @@
 
 
 ## 最新漫画
-### Tornado Hunter
-No.640
-![图片不见了~~~](https://imgs.xkcd.com/comics/tornado_hunter.png)
+### Suggestions
+No.672
+![图片不见了~~~](https://imgs.xkcd.com/comics/suggestions.png)
 
-[原址](https://xkcd.com//640) [下载](https://imgs.xkcd.com/comics/tornado_hunter.png)
+[原址](https://xkcd.com//672) [下载](https://imgs.xkcd.com/comics/suggestions.png)
 
 
 
 ## 随机漫画
-### Collections
-No.625
-![图片不见了~~~](https://imgs.xkcd.com/comics/collections.png)
+### Free
+No.641
+![图片不见了~~~](https://imgs.xkcd.com/comics/free.png)
 
-[原址](https://xkcd.com//625) [下载](https://imgs.xkcd.com/comics/collections.png)
-
-
-
-### Brontosaurus
-No.636
-![图片不见了~~~](https://imgs.xkcd.com/comics/brontosaurus.png)
-
-[原址](https://xkcd.com//636) [下载](https://imgs.xkcd.com/comics/brontosaurus.png)
+[原址](https://xkcd.com//641) [下载](https://imgs.xkcd.com/comics/free.png)
 
 
 
-### Lincoln-Douglas
-No.639
-![图片不见了~~~](https://imgs.xkcd.com/comics/lincoln_douglas.png)
+### Two-Party System
+No.661
+![图片不见了~~~](https://imgs.xkcd.com/comics/two_party_system.png)
 
-[原址](https://xkcd.com//639) [下载](https://imgs.xkcd.com/comics/lincoln_douglas.png)
+[原址](https://xkcd.com//661) [下载](https://imgs.xkcd.com/comics/two_party_system.png)
+
+
+
+### Ohm
+No.643
+![图片不见了~~~](https://imgs.xkcd.com/comics/ohm.png)
+
+[原址](https://xkcd.com//643) [下载](https://imgs.xkcd.com/comics/ohm.png)
 
 
 
