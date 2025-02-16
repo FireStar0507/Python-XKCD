@@ -7,36 +7,36 @@
 
 
 ## 最新漫画
-### Packages
-No.576
-![图片不见了~~~](https://imgs.xkcd.com/comics/packages.png)
+### Form
+No.608
+![图片不见了~~~](https://imgs.xkcd.com/comics/form.png)
 
-[原址](https://xkcd.com//576) [下载](https://imgs.xkcd.com/comics/packages.png)
+[原址](https://xkcd.com//608) [下载](https://imgs.xkcd.com/comics/form.png)
 
 
 
 ## 随机漫画
-### Crossbows
-No.564
-![图片不见了~~~](https://imgs.xkcd.com/comics/crossbows.png)
+### Apocalypse
+No.599
+![图片不见了~~~](https://imgs.xkcd.com/comics/apocalypse.png)
 
-[原址](https://xkcd.com//564) [下载](https://imgs.xkcd.com/comics/crossbows.png)
-
-
-
-### Parking
-No.562
-![图片不见了~~~](https://imgs.xkcd.com/comics/parking.png)
-
-[原址](https://xkcd.com//562) [下载](https://imgs.xkcd.com/comics/parking.png)
+[原址](https://xkcd.com//599) [下载](https://imgs.xkcd.com/comics/apocalypse.png)
 
 
 
-### Matrix Revisited
-No.566
-![图片不见了~~~](https://imgs.xkcd.com/comics/matrix_revisited.png)
+### Android Girlfriend
+No.595
+![图片不见了~~~](https://imgs.xkcd.com/comics/android_girlfriend.png)
 
-[原址](https://xkcd.com//566) [下载](https://imgs.xkcd.com/comics/matrix_revisited.png)
+[原址](https://xkcd.com//595) [下载](https://imgs.xkcd.com/comics/android_girlfriend.png)
+
+
+
+### Game Theory
+No.601
+![图片不见了~~~](https://imgs.xkcd.com/comics/game_theory.png)
+
+[原址](https://xkcd.com//601) [下载](https://imgs.xkcd.com/comics/game_theory.png)
 
 
 
