@@ -7,36 +7,36 @@
 
 
 ## 最新漫画
-### Principle of Explosion
-No.704
-![图片不见了~~~](https://imgs.xkcd.com/comics/principle_of_explosion.png)
+### Cemetery
+No.736
+![图片不见了~~~](https://imgs.xkcd.com/comics/cemetery.png)
 
-[原址](https://xkcd.com//704) [下载](https://imgs.xkcd.com/comics/principle_of_explosion.png)
+[原址](https://xkcd.com//736) [下载](https://imgs.xkcd.com/comics/cemetery.png)
 
 
 
 ## 随机漫画
-### Retro Virus
-No.694
-![图片不见了~~~](https://imgs.xkcd.com/comics/retro_virus.png)
+### Sex Dice
+No.708
+![图片不见了~~~](https://imgs.xkcd.com/comics/sex_dice.png)
 
-[原址](https://xkcd.com//694) [下载](https://imgs.xkcd.com/comics/retro_virus.png)
-
-
-
-### Natural Parenting
-No.674
-![图片不见了~~~](https://imgs.xkcd.com/comics/natural_parenting.png)
-
-[原址](https://xkcd.com//674) [下载](https://imgs.xkcd.com/comics/natural_parenting.png)
+[原址](https://xkcd.com//708) [下载](https://imgs.xkcd.com/comics/sex_dice.png)
 
 
 
-### Spirit
-No.695
-![图片不见了~~~](https://imgs.xkcd.com/comics/spirit.png)
+### Single Ladies
+No.712
+![图片不见了~~~](https://imgs.xkcd.com/comics/single_ladies.png)
 
-[原址](https://xkcd.com//695) [下载](https://imgs.xkcd.com/comics/spirit.png)
+[原址](https://xkcd.com//712) [下载](https://imgs.xkcd.com/comics/single_ladies.png)
+
+
+
+### Seismic Waves
+No.723
+![图片不见了~~~](https://imgs.xkcd.com/comics/seismic_waves.png)
+
+[原址](https://xkcd.com//723) [下载](https://imgs.xkcd.com/comics/seismic_waves.png)
 
 
 
