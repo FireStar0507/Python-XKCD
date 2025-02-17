@@ -7,36 +7,36 @@
 
 
 ## 最新漫画
-### Suggestions
-No.672
-![图片不见了~~~](https://imgs.xkcd.com/comics/suggestions.png)
+### Principle of Explosion
+No.704
+![图片不见了~~~](https://imgs.xkcd.com/comics/principle_of_explosion.png)
 
-[原址](https://xkcd.com//672) [下载](https://imgs.xkcd.com/comics/suggestions.png)
+[原址](https://xkcd.com//704) [下载](https://imgs.xkcd.com/comics/principle_of_explosion.png)
 
 
 
 ## 随机漫画
-### Free
-No.641
-![图片不见了~~~](https://imgs.xkcd.com/comics/free.png)
+### Retro Virus
+No.694
+![图片不见了~~~](https://imgs.xkcd.com/comics/retro_virus.png)
 
-[原址](https://xkcd.com//641) [下载](https://imgs.xkcd.com/comics/free.png)
-
-
-
-### Two-Party System
-No.661
-![图片不见了~~~](https://imgs.xkcd.com/comics/two_party_system.png)
-
-[原址](https://xkcd.com//661) [下载](https://imgs.xkcd.com/comics/two_party_system.png)
+[原址](https://xkcd.com//694) [下载](https://imgs.xkcd.com/comics/retro_virus.png)
 
 
 
-### Ohm
-No.643
-![图片不见了~~~](https://imgs.xkcd.com/comics/ohm.png)
+### Natural Parenting
+No.674
+![图片不见了~~~](https://imgs.xkcd.com/comics/natural_parenting.png)
 
-[原址](https://xkcd.com//643) [下载](https://imgs.xkcd.com/comics/ohm.png)
+[原址](https://xkcd.com//674) [下载](https://imgs.xkcd.com/comics/natural_parenting.png)
+
+
+
+### Spirit
+No.695
+![图片不见了~~~](https://imgs.xkcd.com/comics/spirit.png)
+
+[原址](https://xkcd.com//695) [下载](https://imgs.xkcd.com/comics/spirit.png)
 
 
 
