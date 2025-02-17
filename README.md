@@ -7,36 +7,36 @@
 
 
 ## 最新漫画
-### Cemetery
-No.736
-![图片不见了~~~](https://imgs.xkcd.com/comics/cemetery.png)
+### 1996
+No.768
+![图片不见了~~~](https://imgs.xkcd.com/comics/1996.png)
 
-[原址](https://xkcd.com//736) [下载](https://imgs.xkcd.com/comics/cemetery.png)
+[原址](https://xkcd.com//768) [下载](https://imgs.xkcd.com/comics/1996.png)
 
 
 
 ## 随机漫画
-### Sex Dice
-No.708
-![图片不见了~~~](https://imgs.xkcd.com/comics/sex_dice.png)
+### Green Flash
+No.766
+![图片不见了~~~](https://imgs.xkcd.com/comics/green_flash.png)
 
-[原址](https://xkcd.com//708) [下载](https://imgs.xkcd.com/comics/sex_dice.png)
-
-
-
-### Single Ladies
-No.712
-![图片不见了~~~](https://imgs.xkcd.com/comics/single_ladies.png)
-
-[原址](https://xkcd.com//712) [下载](https://imgs.xkcd.com/comics/single_ladies.png)
+[原址](https://xkcd.com//766) [下载](https://imgs.xkcd.com/comics/green_flash.png)
 
 
 
-### Seismic Waves
-No.723
-![图片不见了~~~](https://imgs.xkcd.com/comics/seismic_waves.png)
+### Phobia
+No.752
+![图片不见了~~~](https://imgs.xkcd.com/comics/phobia.png)
 
-[原址](https://xkcd.com//723) [下载](https://imgs.xkcd.com/comics/seismic_waves.png)
+[原址](https://xkcd.com//752) [下载](https://imgs.xkcd.com/comics/phobia.png)
+
+
+
+### 1996
+No.768
+![图片不见了~~~](https://imgs.xkcd.com/comics/1996.png)
+
+[原址](https://xkcd.com//768) [下载](https://imgs.xkcd.com/comics/1996.png)
 
 
 
