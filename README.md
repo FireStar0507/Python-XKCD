@@ -7,36 +7,36 @@
 
 
 ## 最新漫画
-### 1996
-No.768
-![图片不见了~~~](https://imgs.xkcd.com/comics/1996.png)
+### Beautiful Dream
+No.800
+![图片不见了~~~](https://imgs.xkcd.com/comics/beautiful_dream.png)
 
-[原址](https://xkcd.com//768) [下载](https://imgs.xkcd.com/comics/1996.png)
+[原址](https://xkcd.com//800) [下载](https://imgs.xkcd.com/comics/beautiful_dream.png)
 
 
 
 ## 随机漫画
-### Green Flash
-No.766
-![图片不见了~~~](https://imgs.xkcd.com/comics/green_flash.png)
+### Inside Joke
+No.794
+![图片不见了~~~](https://imgs.xkcd.com/comics/inside_joke.png)
 
-[原址](https://xkcd.com//766) [下载](https://imgs.xkcd.com/comics/green_flash.png)
-
-
-
-### Phobia
-No.752
-![图片不见了~~~](https://imgs.xkcd.com/comics/phobia.png)
-
-[原址](https://xkcd.com//752) [下载](https://imgs.xkcd.com/comics/phobia.png)
+[原址](https://xkcd.com//794) [下载](https://imgs.xkcd.com/comics/inside_joke.png)
 
 
 
-### 1996
-No.768
-![图片不见了~~~](https://imgs.xkcd.com/comics/1996.png)
+### Physicists
+No.793
+![图片不见了~~~](https://imgs.xkcd.com/comics/physicists.png)
 
-[原址](https://xkcd.com//768) [下载](https://imgs.xkcd.com/comics/1996.png)
+[原址](https://xkcd.com//793) [下载](https://imgs.xkcd.com/comics/physicists.png)
+
+
+
+### Stephen Hawking
+No.799
+![图片不见了~~~](https://imgs.xkcd.com/comics/stephen_hawking.png)
+
+[原址](https://xkcd.com//799) [下载](https://imgs.xkcd.com/comics/stephen_hawking.png)
 
 
 
