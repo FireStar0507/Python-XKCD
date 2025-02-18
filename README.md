@@ -7,36 +7,36 @@
 
 
 ## 最新漫画
-### Tic-Tac-Toe
-No.832
-![图片不见了~~~](https://imgs.xkcd.com/comics/tic_tac_toe.png)
+### Flying Cars
+No.864
+![图片不见了~~~](https://imgs.xkcd.com/comics/flying_cars.png)
 
-[原址](https://xkcd.com//832) [下载](https://imgs.xkcd.com/comics/tic_tac_toe.png)
+[原址](https://xkcd.com//864) [下载](https://imgs.xkcd.com/comics/flying_cars.png)
 
 
 
 ## 随机漫画
-### Guest Week: Jeffrey Rowland (Overcompensating)
-No.825
-![图片不见了~~~](https://imgs.xkcd.com/comics/guest_week_jeffrey_rowland_overcompensating.png)
+### Flying Cars
+No.864
+![图片不见了~~~](https://imgs.xkcd.com/comics/flying_cars.png)
 
-[原址](https://xkcd.com//825) [下载](https://imgs.xkcd.com/comics/guest_week_jeffrey_rowland_overcompensating.png)
-
-
-
-### Guest Week: Jeph Jacques (Questionable Content)
-No.822
-![图片不见了~~~](https://imgs.xkcd.com/comics/guest_week_jeph_jacques_questionable_content.png)
-
-[原址](https://xkcd.com//822) [下载](https://imgs.xkcd.com/comics/guest_week_jeph_jacques_questionable_content.png)
+[原址](https://xkcd.com//864) [下载](https://imgs.xkcd.com/comics/flying_cars.png)
 
 
 
-### Five-Minute Comics: Part 3
-No.821
-![图片不见了~~~](https://imgs.xkcd.com/comics/five_minute_comics_part_3.png)
+### Major in the Universe
+No.863
+![图片不见了~~~](https://imgs.xkcd.com/comics/major_in_the_universe.png)
 
-[原址](https://xkcd.com//821) [下载](https://imgs.xkcd.com/comics/five_minute_comics_part_3.png)
+[原址](https://xkcd.com//863) [下载](https://imgs.xkcd.com/comics/major_in_the_universe.png)
+
+
+
+### Archimedes
+No.857
+![图片不见了~~~](https://imgs.xkcd.com/comics/archimedes.png)
+
+[原址](https://xkcd.com//857) [下载](https://imgs.xkcd.com/comics/archimedes.png)
 
 
 
