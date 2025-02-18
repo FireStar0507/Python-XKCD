@@ -7,36 +7,36 @@
 
 
 ## 最新漫画
-### Beautiful Dream
-No.800
-![图片不见了~~~](https://imgs.xkcd.com/comics/beautiful_dream.png)
+### Tic-Tac-Toe
+No.832
+![图片不见了~~~](https://imgs.xkcd.com/comics/tic_tac_toe.png)
 
-[原址](https://xkcd.com//800) [下载](https://imgs.xkcd.com/comics/beautiful_dream.png)
+[原址](https://xkcd.com//832) [下载](https://imgs.xkcd.com/comics/tic_tac_toe.png)
 
 
 
 ## 随机漫画
-### Inside Joke
-No.794
-![图片不见了~~~](https://imgs.xkcd.com/comics/inside_joke.png)
+### Guest Week: Jeffrey Rowland (Overcompensating)
+No.825
+![图片不见了~~~](https://imgs.xkcd.com/comics/guest_week_jeffrey_rowland_overcompensating.png)
 
-[原址](https://xkcd.com//794) [下载](https://imgs.xkcd.com/comics/inside_joke.png)
-
-
-
-### Physicists
-No.793
-![图片不见了~~~](https://imgs.xkcd.com/comics/physicists.png)
-
-[原址](https://xkcd.com//793) [下载](https://imgs.xkcd.com/comics/physicists.png)
+[原址](https://xkcd.com//825) [下载](https://imgs.xkcd.com/comics/guest_week_jeffrey_rowland_overcompensating.png)
 
 
 
-### Stephen Hawking
-No.799
-![图片不见了~~~](https://imgs.xkcd.com/comics/stephen_hawking.png)
+### Guest Week: Jeph Jacques (Questionable Content)
+No.822
+![图片不见了~~~](https://imgs.xkcd.com/comics/guest_week_jeph_jacques_questionable_content.png)
 
-[原址](https://xkcd.com//799) [下载](https://imgs.xkcd.com/comics/stephen_hawking.png)
+[原址](https://xkcd.com//822) [下载](https://imgs.xkcd.com/comics/guest_week_jeph_jacques_questionable_content.png)
+
+
+
+### Five-Minute Comics: Part 3
+No.821
+![图片不见了~~~](https://imgs.xkcd.com/comics/five_minute_comics_part_3.png)
+
+[原址](https://xkcd.com//821) [下载](https://imgs.xkcd.com/comics/five_minute_comics_part_3.png)
 
 
 
