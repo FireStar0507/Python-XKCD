@@ -7,36 +7,36 @@
 
 
 ## 最新漫画
-### Flying Cars
-No.864
-![图片不见了~~~](https://imgs.xkcd.com/comics/flying_cars.png)
+### Marie Curie
+No.896
+![图片不见了~~~](https://imgs.xkcd.com/comics/marie_curie.png)
 
-[原址](https://xkcd.com//864) [下载](https://imgs.xkcd.com/comics/flying_cars.png)
+[原址](https://xkcd.com//896) [下载](https://imgs.xkcd.com/comics/marie_curie.png)
 
 
 
 ## 随机漫画
-### Flying Cars
-No.864
-![图片不见了~~~](https://imgs.xkcd.com/comics/flying_cars.png)
+### Marie Curie
+No.896
+![图片不见了~~~](https://imgs.xkcd.com/comics/marie_curie.png)
 
-[原址](https://xkcd.com//864) [下载](https://imgs.xkcd.com/comics/flying_cars.png)
-
-
-
-### Major in the Universe
-No.863
-![图片不见了~~~](https://imgs.xkcd.com/comics/major_in_the_universe.png)
-
-[原址](https://xkcd.com//863) [下载](https://imgs.xkcd.com/comics/major_in_the_universe.png)
+[原址](https://xkcd.com//896) [下载](https://imgs.xkcd.com/comics/marie_curie.png)
 
 
 
-### Archimedes
-No.857
-![图片不见了~~~](https://imgs.xkcd.com/comics/archimedes.png)
+### Compass and Straightedge
+No.866
+![图片不见了~~~](https://imgs.xkcd.com/comics/compass_and_straightedge.png)
 
-[原址](https://xkcd.com//857) [下载](https://imgs.xkcd.com/comics/archimedes.png)
+[原址](https://xkcd.com//866) [下载](https://imgs.xkcd.com/comics/compass_and_straightedge.png)
+
+
+
+### 2009 Called
+No.875
+![图片不见了~~~](https://imgs.xkcd.com/comics/2009_called.png)
+
+[原址](https://xkcd.com//875) [下载](https://imgs.xkcd.com/comics/2009_called.png)
 
 
 
