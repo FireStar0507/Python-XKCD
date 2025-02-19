@@ -7,36 +7,36 @@
 
 
 ## 最新漫画
-### Mimic Octopus
-No.928
-![图片不见了~~~](https://imgs.xkcd.com/comics/mimic_octopus.png)
+### Subliminal
+No.960
+![图片不见了~~~](https://imgs.xkcd.com/comics/subliminal.png)
 
-[原址](https://xkcd.com//928) [下载](https://imgs.xkcd.com/comics/mimic_octopus.png)
+[原址](https://xkcd.com//960) [下载](https://imgs.xkcd.com/comics/subliminal.png)
 
 
 
 ## 随机漫画
-### Core
-No.913
-![图片不见了~~~](https://imgs.xkcd.com/comics/core.png)
+### Mystery Solved
+No.950
+![图片不见了~~~](https://imgs.xkcd.com/comics/mystery_solved.png)
 
-[原址](https://xkcd.com//913) [下载](https://imgs.xkcd.com/comics/core.png)
-
-
-
-### Ice
-No.914
-![图片不见了~~~](https://imgs.xkcd.com/comics/ice.png)
-
-[原址](https://xkcd.com//914) [下载](https://imgs.xkcd.com/comics/ice.png)
+[原址](https://xkcd.com//950) [下载](https://imgs.xkcd.com/comics/mystery_solved.png)
 
 
 
-### Permanence
-No.910
-![图片不见了~~~](https://imgs.xkcd.com/comics/permanence.png)
+### Development
+No.957
+![图片不见了~~~](https://imgs.xkcd.com/comics/development.png)
 
-[原址](https://xkcd.com//910) [下载](https://imgs.xkcd.com/comics/permanence.png)
+[原址](https://xkcd.com//957) [下载](https://imgs.xkcd.com/comics/development.png)
+
+
+
+### File Transfer
+No.949
+![图片不见了~~~](https://imgs.xkcd.com/comics/file_transfer.png)
+
+[原址](https://xkcd.com//949) [下载](https://imgs.xkcd.com/comics/file_transfer.png)
 
 
 
