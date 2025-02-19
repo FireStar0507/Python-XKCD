@@ -7,36 +7,36 @@
 
 
 ## 最新漫画
-### Marie Curie
-No.896
-![图片不见了~~~](https://imgs.xkcd.com/comics/marie_curie.png)
+### Mimic Octopus
+No.928
+![图片不见了~~~](https://imgs.xkcd.com/comics/mimic_octopus.png)
 
-[原址](https://xkcd.com//896) [下载](https://imgs.xkcd.com/comics/marie_curie.png)
+[原址](https://xkcd.com//928) [下载](https://imgs.xkcd.com/comics/mimic_octopus.png)
 
 
 
 ## 随机漫画
-### Marie Curie
-No.896
-![图片不见了~~~](https://imgs.xkcd.com/comics/marie_curie.png)
+### Core
+No.913
+![图片不见了~~~](https://imgs.xkcd.com/comics/core.png)
 
-[原址](https://xkcd.com//896) [下载](https://imgs.xkcd.com/comics/marie_curie.png)
-
-
-
-### Compass and Straightedge
-No.866
-![图片不见了~~~](https://imgs.xkcd.com/comics/compass_and_straightedge.png)
-
-[原址](https://xkcd.com//866) [下载](https://imgs.xkcd.com/comics/compass_and_straightedge.png)
+[原址](https://xkcd.com//913) [下载](https://imgs.xkcd.com/comics/core.png)
 
 
 
-### 2009 Called
-No.875
-![图片不见了~~~](https://imgs.xkcd.com/comics/2009_called.png)
+### Ice
+No.914
+![图片不见了~~~](https://imgs.xkcd.com/comics/ice.png)
 
-[原址](https://xkcd.com//875) [下载](https://imgs.xkcd.com/comics/2009_called.png)
+[原址](https://xkcd.com//914) [下载](https://imgs.xkcd.com/comics/ice.png)
+
+
+
+### Permanence
+No.910
+![图片不见了~~~](https://imgs.xkcd.com/comics/permanence.png)
+
+[原址](https://xkcd.com//910) [下载](https://imgs.xkcd.com/comics/permanence.png)
 
 
 
