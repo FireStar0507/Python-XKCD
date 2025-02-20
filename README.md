@@ -7,36 +7,36 @@
 
 
 ## 最新漫画
-### Subliminal
-No.960
-![图片不见了~~~](https://imgs.xkcd.com/comics/subliminal.png)
+### Mnemonics
+No.992
+![图片不见了~~~](https://imgs.xkcd.com/comics/mnemonics.png)
 
-[原址](https://xkcd.com//960) [下载](https://imgs.xkcd.com/comics/subliminal.png)
+[原址](https://xkcd.com//992) [下载](https://imgs.xkcd.com/comics/mnemonics.png)
 
 
 
 ## 随机漫画
-### Mystery Solved
-No.950
-![图片不见了~~~](https://imgs.xkcd.com/comics/mystery_solved.png)
+### Wisdom of the Ancients
+No.979
+![图片不见了~~~](https://imgs.xkcd.com/comics/wisdom_of_the_ancients.png)
 
-[原址](https://xkcd.com//950) [下载](https://imgs.xkcd.com/comics/mystery_solved.png)
-
-
-
-### Development
-No.957
-![图片不见了~~~](https://imgs.xkcd.com/comics/development.png)
-
-[原址](https://xkcd.com//957) [下载](https://imgs.xkcd.com/comics/development.png)
+[原址](https://xkcd.com//979) [下载](https://imgs.xkcd.com/comics/wisdom_of_the_ancients.png)
 
 
 
-### File Transfer
-No.949
-![图片不见了~~~](https://imgs.xkcd.com/comics/file_transfer.png)
+### Occulting Telescope
+No.975
+![图片不见了~~~](https://imgs.xkcd.com/comics/occulting_telescope.png)
 
-[原址](https://xkcd.com//949) [下载](https://imgs.xkcd.com/comics/file_transfer.png)
+[原址](https://xkcd.com//975) [下载](https://imgs.xkcd.com/comics/occulting_telescope.png)
+
+
+
+### Porn Folder
+No.981
+![图片不见了~~~](https://imgs.xkcd.com/comics/porn_folder.png)
+
+[原址](https://xkcd.com//981) [下载](https://imgs.xkcd.com/comics/porn_folder.png)
 
 
 
