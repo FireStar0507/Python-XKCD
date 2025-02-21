@@ -7,36 +7,36 @@
 
 
 ## 最新漫画
-### Blurring the Line
-No.1120
-![图片不见了~~~](https://imgs.xkcd.com/comics/blurring_the_line.png)
+### Communion
+No.1152
+![图片不见了~~~](https://imgs.xkcd.com/comics/communion.png)
 
-[原址](https://xkcd.com//1120) [下载](https://imgs.xkcd.com/comics/blurring_the_line.png)
+[原址](https://xkcd.com//1152) [下载](https://imgs.xkcd.com/comics/communion.png)
 
 
 
 ## 随机漫画
-### Internal Monologue
-No.1089
-![图片不见了~~~](https://imgs.xkcd.com/comics/internal_monologue.png)
+### Logic Boat
+No.1134
+![图片不见了~~~](https://imgs.xkcd.com/comics/logic_boat.png)
 
-[原址](https://xkcd.com//1089) [下载](https://imgs.xkcd.com/comics/internal_monologue.png)
-
-
-
-### Formal Languages
-No.1090
-![图片不见了~~~](https://imgs.xkcd.com/comics/formal_languages.png)
-
-[原址](https://xkcd.com//1090) [下载](https://imgs.xkcd.com/comics/formal_languages.png)
+[原址](https://xkcd.com//1134) [下载](https://imgs.xkcd.com/comics/logic_boat.png)
 
 
 
-### Sports Cheat Sheet
-No.1107
-![图片不见了~~~](https://imgs.xkcd.com/comics/sports_cheat_sheet.png)
+### Tests
+No.1151
+![图片不见了~~~](https://imgs.xkcd.com/comics/tests.png)
 
-[原址](https://xkcd.com//1107) [下载](https://imgs.xkcd.com/comics/sports_cheat_sheet.png)
+[原址](https://xkcd.com//1151) [下载](https://imgs.xkcd.com/comics/tests.png)
+
+
+
+### ‮LTR
+No.1137
+![图片不见了~~~](https://imgs.xkcd.com/comics/rtl.png)
+
+[原址](https://xkcd.com//1137) [下载](https://imgs.xkcd.com/comics/rtl.png)
 
 
 
