@@ -7,36 +7,36 @@
 
 
 ## 最新漫画
-### Felidae
-No.1056
-![图片不见了~~~](https://imgs.xkcd.com/comics/felidae.png)
+### Five Years
+No.1088
+![图片不见了~~~](https://imgs.xkcd.com/comics/five_years.png)
 
-[原址](https://xkcd.com//1056) [下载](https://imgs.xkcd.com/comics/felidae.png)
+[原址](https://xkcd.com//1088) [下载](https://imgs.xkcd.com/comics/five_years.png)
 
 
 
 ## 随机漫画
-### Share Buttons
-No.1034
-![图片不见了~~~](https://imgs.xkcd.com/comics/share_buttons.png)
+### Alphabet
+No.1069
+![图片不见了~~~](https://imgs.xkcd.com/comics/alphabet.png)
 
-[原址](https://xkcd.com//1034) [下载](https://imgs.xkcd.com/comics/share_buttons.png)
-
-
-
-### Bookshelf
-No.1049
-![图片不见了~~~](https://imgs.xkcd.com/comics/bookshelf.png)
-
-[原址](https://xkcd.com//1049) [下载](https://imgs.xkcd.com/comics/bookshelf.png)
+[原址](https://xkcd.com//1069) [下载](https://imgs.xkcd.com/comics/alphabet.png)
 
 
 
-### Constraints
-No.1045
-![图片不见了~~~](https://imgs.xkcd.com/comics/constraints.png)
+### Kill Hitler
+No.1063
+![图片不见了~~~](https://imgs.xkcd.com/comics/kill_hitler.png)
 
-[原址](https://xkcd.com//1045) [下载](https://imgs.xkcd.com/comics/constraints.png)
+[原址](https://xkcd.com//1063) [下载](https://imgs.xkcd.com/comics/kill_hitler.png)
+
+
+
+### Writing Styles
+No.1083
+![图片不见了~~~](https://imgs.xkcd.com/comics/writing_styles.png)
+
+[原址](https://xkcd.com//1083) [下载](https://imgs.xkcd.com/comics/writing_styles.png)
 
 
 
