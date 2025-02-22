@@ -7,36 +7,36 @@
 
 
 ## 最新漫画
-### Sticks and Stones
-No.1216
-![图片不见了~~~](https://imgs.xkcd.com/comics/sticks_and_stones.png)
+### Sphere
+No.1248
+![图片不见了~~~](https://imgs.xkcd.com/comics/sphere.png)
 
-[原址](https://xkcd.com//1216) [下载](https://imgs.xkcd.com/comics/sticks_and_stones.png)
+[原址](https://xkcd.com//1248) [下载](https://imgs.xkcd.com/comics/sphere.png)
 
 
 
 ## 随机漫画
-### Voyager 1
-No.1189
-![图片不见了~~~](https://imgs.xkcd.com/comics/voyager_1.png)
+### Quantum Mechanics
+No.1240
+![图片不见了~~~](https://imgs.xkcd.com/comics/quantum_mechanics.png)
 
-[原址](https://xkcd.com//1189) [下载](https://imgs.xkcd.com/comics/voyager_1.png)
-
-
-
-### The Past
-No.1191
-![图片不见了~~~](https://imgs.xkcd.com/comics/the_past.png)
-
-[原址](https://xkcd.com//1191) [下载](https://imgs.xkcd.com/comics/the_past.png)
+[原址](https://xkcd.com//1240) [下载](https://imgs.xkcd.com/comics/quantum_mechanics.png)
 
 
 
-### Interstellar Memes
-No.1212
-![图片不见了~~~](https://imgs.xkcd.com/comics/interstellar_memes.png)
+### Council of 300
+No.1224
+![图片不见了~~~](https://imgs.xkcd.com/comics/council_of_300.png)
 
-[原址](https://xkcd.com//1212) [下载](https://imgs.xkcd.com/comics/interstellar_memes.png)
+[原址](https://xkcd.com//1224) [下载](https://imgs.xkcd.com/comics/council_of_300.png)
+
+
+
+### Prometheus
+No.1228
+![图片不见了~~~](https://imgs.xkcd.com/comics/prometheus.png)
+
+[原址](https://xkcd.com//1228) [下载](https://imgs.xkcd.com/comics/prometheus.png)
 
 
 
