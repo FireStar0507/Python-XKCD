@@ -7,36 +7,36 @@
 
 
 ## 最新漫画
-### Circumference Formula
-No.1184
-![图片不见了~~~](https://imgs.xkcd.com/comics/circumference_formula.png)
+### Sticks and Stones
+No.1216
+![图片不见了~~~](https://imgs.xkcd.com/comics/sticks_and_stones.png)
 
-[原址](https://xkcd.com//1184) [下载](https://imgs.xkcd.com/comics/circumference_formula.png)
+[原址](https://xkcd.com//1216) [下载](https://imgs.xkcd.com/comics/sticks_and_stones.png)
 
 
 
 ## 随机漫画
-### Those Not Present
-No.1176
-![图片不见了~~~](https://imgs.xkcd.com/comics/those_not_present.png)
+### Voyager 1
+No.1189
+![图片不见了~~~](https://imgs.xkcd.com/comics/voyager_1.png)
 
-[原址](https://xkcd.com//1176) [下载](https://imgs.xkcd.com/comics/those_not_present.png)
-
-
-
-### Rubber Sheet
-No.1158
-![图片不见了~~~](https://imgs.xkcd.com/comics/rubber_sheet.png)
-
-[原址](https://xkcd.com//1158) [下载](https://imgs.xkcd.com/comics/rubber_sheet.png)
+[原址](https://xkcd.com//1189) [下载](https://imgs.xkcd.com/comics/voyager_1.png)
 
 
 
-### Moving Sidewalks
-No.1175
-![图片不见了~~~](https://imgs.xkcd.com/comics/moving_sidewalks.png)
+### The Past
+No.1191
+![图片不见了~~~](https://imgs.xkcd.com/comics/the_past.png)
 
-[原址](https://xkcd.com//1175) [下载](https://imgs.xkcd.com/comics/moving_sidewalks.png)
+[原址](https://xkcd.com//1191) [下载](https://imgs.xkcd.com/comics/the_past.png)
+
+
+
+### Interstellar Memes
+No.1212
+![图片不见了~~~](https://imgs.xkcd.com/comics/interstellar_memes.png)
+
+[原址](https://xkcd.com//1212) [下载](https://imgs.xkcd.com/comics/interstellar_memes.png)
 
 
 
