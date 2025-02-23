@@ -7,36 +7,36 @@
 
 
 ## 最新漫画
-### Sphere
-No.1248
-![图片不见了~~~](https://imgs.xkcd.com/comics/sphere.png)
+### Mystery News
+No.1280
+![图片不见了~~~](https://imgs.xkcd.com/comics/mystery_news.png)
 
-[原址](https://xkcd.com//1248) [下载](https://imgs.xkcd.com/comics/sphere.png)
+[原址](https://xkcd.com//1280) [下载](https://imgs.xkcd.com/comics/mystery_news.png)
 
 
 
 ## 随机漫画
-### Quantum Mechanics
-No.1240
-![图片不见了~~~](https://imgs.xkcd.com/comics/quantum_mechanics.png)
+### Columbus
+No.1255
+![图片不见了~~~](https://imgs.xkcd.com/comics/columbus.png)
 
-[原址](https://xkcd.com//1240) [下载](https://imgs.xkcd.com/comics/quantum_mechanics.png)
-
-
-
-### Council of 300
-No.1224
-![图片不见了~~~](https://imgs.xkcd.com/comics/council_of_300.png)
-
-[原址](https://xkcd.com//1224) [下载](https://imgs.xkcd.com/comics/council_of_300.png)
+[原址](https://xkcd.com//1255) [下载](https://imgs.xkcd.com/comics/columbus.png)
 
 
 
-### Prometheus
-No.1228
-![图片不见了~~~](https://imgs.xkcd.com/comics/prometheus.png)
+### Angular Size
+No.1276
+![图片不见了~~~](https://imgs.xkcd.com/comics/angular_size.png)
 
-[原址](https://xkcd.com//1228) [下载](https://imgs.xkcd.com/comics/prometheus.png)
+[原址](https://xkcd.com//1276) [下载](https://imgs.xkcd.com/comics/angular_size.png)
+
+
+
+### Reassuring
+No.1263
+![图片不见了~~~](https://imgs.xkcd.com/comics/reassuring.png)
+
+[原址](https://xkcd.com//1263) [下载](https://imgs.xkcd.com/comics/reassuring.png)
 
 
 
