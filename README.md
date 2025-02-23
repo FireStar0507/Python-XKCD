@@ -7,36 +7,36 @@
 
 
 ## 最新漫画
-### Haskell
-No.1312
-![图片不见了~~~](https://imgs.xkcd.com/comics/haskell.png)
+### Digits
+No.1344
+![图片不见了~~~](https://imgs.xkcd.com/comics/digits.png)
 
-[原址](https://xkcd.com//1312) [下载](https://imgs.xkcd.com/comics/haskell.png)
+[原址](https://xkcd.com//1344) [下载](https://imgs.xkcd.com/comics/digits.png)
 
 
 
 ## 随机漫画
-### Substitutions
-No.1288
-![图片不见了~~~](https://imgs.xkcd.com/comics/substitutions.png)
+### Actually
+No.1318
+![图片不见了~~~](https://imgs.xkcd.com/comics/actually.png)
 
-[原址](https://xkcd.com//1288) [下载](https://imgs.xkcd.com/comics/substitutions.png)
-
-
-
-### Profile Info
-No.1303
-![图片不见了~~~](https://imgs.xkcd.com/comics/profile_info.png)
-
-[原址](https://xkcd.com//1303) [下载](https://imgs.xkcd.com/comics/profile_info.png)
+[原址](https://xkcd.com//1318) [下载](https://imgs.xkcd.com/comics/actually.png)
 
 
 
-### Improved Keyboard
-No.1284
-![图片不见了~~~](https://imgs.xkcd.com/comics/improved_keyboard.png)
+### Sharks
+No.1326
+![图片不见了~~~](https://imgs.xkcd.com/comics/sharks.png)
 
-[原址](https://xkcd.com//1284) [下载](https://imgs.xkcd.com/comics/improved_keyboard.png)
+[原址](https://xkcd.com//1326) [下载](https://imgs.xkcd.com/comics/sharks.png)
+
+
+
+### Winter
+No.1322
+![图片不见了~~~](https://imgs.xkcd.com/comics/winter.png)
+
+[原址](https://xkcd.com//1322) [下载](https://imgs.xkcd.com/comics/winter.png)
 
 
 
