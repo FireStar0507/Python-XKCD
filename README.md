@@ -7,36 +7,36 @@
 
 
 ## 最新漫画
-### Mystery News
-No.1280
-![图片不见了~~~](https://imgs.xkcd.com/comics/mystery_news.png)
+### Haskell
+No.1312
+![图片不见了~~~](https://imgs.xkcd.com/comics/haskell.png)
 
-[原址](https://xkcd.com//1280) [下载](https://imgs.xkcd.com/comics/mystery_news.png)
+[原址](https://xkcd.com//1312) [下载](https://imgs.xkcd.com/comics/haskell.png)
 
 
 
 ## 随机漫画
-### Columbus
-No.1255
-![图片不见了~~~](https://imgs.xkcd.com/comics/columbus.png)
+### Substitutions
+No.1288
+![图片不见了~~~](https://imgs.xkcd.com/comics/substitutions.png)
 
-[原址](https://xkcd.com//1255) [下载](https://imgs.xkcd.com/comics/columbus.png)
-
-
-
-### Angular Size
-No.1276
-![图片不见了~~~](https://imgs.xkcd.com/comics/angular_size.png)
-
-[原址](https://xkcd.com//1276) [下载](https://imgs.xkcd.com/comics/angular_size.png)
+[原址](https://xkcd.com//1288) [下载](https://imgs.xkcd.com/comics/substitutions.png)
 
 
 
-### Reassuring
-No.1263
-![图片不见了~~~](https://imgs.xkcd.com/comics/reassuring.png)
+### Profile Info
+No.1303
+![图片不见了~~~](https://imgs.xkcd.com/comics/profile_info.png)
 
-[原址](https://xkcd.com//1263) [下载](https://imgs.xkcd.com/comics/reassuring.png)
+[原址](https://xkcd.com//1303) [下载](https://imgs.xkcd.com/comics/profile_info.png)
+
+
+
+### Improved Keyboard
+No.1284
+![图片不见了~~~](https://imgs.xkcd.com/comics/improved_keyboard.png)
+
+[原址](https://xkcd.com//1284) [下载](https://imgs.xkcd.com/comics/improved_keyboard.png)
 
 
 
