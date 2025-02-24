@@ -7,36 +7,36 @@
 
 
 ## 最新漫画
-### March of the Penguins
-No.1408
-![图片不见了~~~](https://imgs.xkcd.com/comics/march_of_the_penguins.png)
+### Geese
+No.1440
+![图片不见了~~~](https://imgs.xkcd.com/comics/geese.png)
 
-[原址](https://xkcd.com//1408) [下载](https://imgs.xkcd.com/comics/march_of_the_penguins.png)
+[原址](https://xkcd.com//1440) [下载](https://imgs.xkcd.com/comics/geese.png)
 
 
 
 ## 随机漫画
-### Manual for Civilization
-No.1380
-![图片不见了~~~](https://imgs.xkcd.com/comics/manual_for_civilization.png)
+### Future Self
+No.1421
+![图片不见了~~~](https://imgs.xkcd.com/comics/future_self.png)
 
-[原址](https://xkcd.com//1380) [下载](https://imgs.xkcd.com/comics/manual_for_civilization.png)
-
-
-
-### 4.5 Degrees
-No.1379
-![图片不见了~~~](https://imgs.xkcd.com/comics/4_5_degrees.png)
-
-[原址](https://xkcd.com//1379) [下载](https://imgs.xkcd.com/comics/4_5_degrees.png)
+[原址](https://xkcd.com//1421) [下载](https://imgs.xkcd.com/comics/future_self.png)
 
 
 
-### Krypton
-No.1384
-![图片不见了~~~](https://imgs.xkcd.com/comics/krypton.png)
+### Geese
+No.1440
+![图片不见了~~~](https://imgs.xkcd.com/comics/geese.png)
 
-[原址](https://xkcd.com//1384) [下载](https://imgs.xkcd.com/comics/krypton.png)
+[原址](https://xkcd.com//1440) [下载](https://imgs.xkcd.com/comics/geese.png)
+
+
+
+### Writing Skills
+No.1414
+![图片不见了~~~](https://imgs.xkcd.com/comics/writing_skills.png)
+
+[原址](https://xkcd.com//1414) [下载](https://imgs.xkcd.com/comics/writing_skills.png)
 
 
 
