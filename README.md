@@ -7,36 +7,36 @@
 
 
 ## 最新漫画
-### Jump
-No.1376
-![图片不见了~~~](https://imgs.xkcd.com/comics/jump.png)
+### March of the Penguins
+No.1408
+![图片不见了~~~](https://imgs.xkcd.com/comics/march_of_the_penguins.png)
 
-[原址](https://xkcd.com//1376) [下载](https://imgs.xkcd.com/comics/jump.png)
+[原址](https://xkcd.com//1408) [下载](https://imgs.xkcd.com/comics/march_of_the_penguins.png)
 
 
 
 ## 随机漫画
-### Lorenz
-No.1350
-![图片不见了~~~](https://imgs.xkcd.com/comics/shouldnt_be_hard.png)
+### Manual for Civilization
+No.1380
+![图片不见了~~~](https://imgs.xkcd.com/comics/manual_for_civilization.png)
 
-[原址](https://xkcd.com//1350) [下载](https://imgs.xkcd.com/comics/shouldnt_be_hard.png)
-
-
-
-### Before the Internet
-No.1348
-![图片不见了~~~](https://imgs.xkcd.com/comics/before_the_internet.png)
-
-[原址](https://xkcd.com//1348) [下载](https://imgs.xkcd.com/comics/before_the_internet.png)
+[原址](https://xkcd.com//1380) [下载](https://imgs.xkcd.com/comics/manual_for_civilization.png)
 
 
 
-### Heartbleed Explanation
-No.1354
-![图片不见了~~~](https://imgs.xkcd.com/comics/heartbleed_explanation.png)
+### 4.5 Degrees
+No.1379
+![图片不见了~~~](https://imgs.xkcd.com/comics/4_5_degrees.png)
 
-[原址](https://xkcd.com//1354) [下载](https://imgs.xkcd.com/comics/heartbleed_explanation.png)
+[原址](https://xkcd.com//1379) [下载](https://imgs.xkcd.com/comics/4_5_degrees.png)
+
+
+
+### Krypton
+No.1384
+![图片不见了~~~](https://imgs.xkcd.com/comics/krypton.png)
+
+[原址](https://xkcd.com//1384) [下载](https://imgs.xkcd.com/comics/krypton.png)
 
 
 
