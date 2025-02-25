@@ -7,36 +7,36 @@
 
 
 ## 最新漫画
-### Geese
-No.1440
-![图片不见了~~~](https://imgs.xkcd.com/comics/geese.png)
+### Geography
+No.1472
+![图片不见了~~~](https://imgs.xkcd.com/comics/geography.png)
 
-[原址](https://xkcd.com//1440) [下载](https://imgs.xkcd.com/comics/geese.png)
+[原址](https://xkcd.com//1472) [下载](https://imgs.xkcd.com/comics/geography.png)
 
 
 
 ## 随机漫画
-### Future Self
-No.1421
-![图片不见了~~~](https://imgs.xkcd.com/comics/future_self.png)
+### Blind Trials
+No.1462
+![图片不见了~~~](https://imgs.xkcd.com/comics/blind_trials.png)
 
-[原址](https://xkcd.com//1421) [下载](https://imgs.xkcd.com/comics/future_self.png)
-
-
-
-### Geese
-No.1440
-![图片不见了~~~](https://imgs.xkcd.com/comics/geese.png)
-
-[原址](https://xkcd.com//1440) [下载](https://imgs.xkcd.com/comics/geese.png)
+[原址](https://xkcd.com//1462) [下载](https://imgs.xkcd.com/comics/blind_trials.png)
 
 
 
-### Writing Skills
-No.1414
-![图片不见了~~~](https://imgs.xkcd.com/comics/writing_skills.png)
+### Feedback
+No.1457
+![图片不见了~~~](https://imgs.xkcd.com/comics/feedback.png)
 
-[原址](https://xkcd.com//1414) [下载](https://imgs.xkcd.com/comics/writing_skills.png)
+[原址](https://xkcd.com//1457) [下载](https://imgs.xkcd.com/comics/feedback.png)
+
+
+
+### Turnabout
+No.1441
+![图片不见了~~~](https://imgs.xkcd.com/comics/turnabout.png)
+
+[原址](https://xkcd.com//1441) [下载](https://imgs.xkcd.com/comics/turnabout.png)
 
 
 
