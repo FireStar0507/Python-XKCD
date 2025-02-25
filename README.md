@@ -7,36 +7,36 @@
 
 
 ## 最新漫画
-### Opportunity
-No.1504
-![图片不见了~~~](https://imgs.xkcd.com/comics/opportunity.png)
+### The Martian
+No.1536
+![图片不见了~~~](https://imgs.xkcd.com/comics/the_martian.png)
 
-[原址](https://xkcd.com//1504) [下载](https://imgs.xkcd.com/comics/opportunity.png)
+[原址](https://xkcd.com//1536) [下载](https://imgs.xkcd.com/comics/the_martian.png)
 
 
 
 ## 随机漫画
-### Upside-Down Map
-No.1500
-![图片不见了~~~](https://imgs.xkcd.com/comics/upside_down_map.png)
+### Typical Morning Routine
+No.1518
+![图片不见了~~~](https://imgs.xkcd.com/comics/typical_morning_routine.png)
 
-[原址](https://xkcd.com//1500) [下载](https://imgs.xkcd.com/comics/upside_down_map.png)
-
-
-
-### API
-No.1481
-![图片不见了~~~](https://imgs.xkcd.com/comics/api.png)
-
-[原址](https://xkcd.com//1481) [下载](https://imgs.xkcd.com/comics/api.png)
+[原址](https://xkcd.com//1518) [下载](https://imgs.xkcd.com/comics/typical_morning_routine.png)
 
 
 
-### Insurance
-No.1494
-![图片不见了~~~](https://imgs.xkcd.com/comics/insurance.png)
+### Spectroscopy
+No.1517
+![图片不见了~~~](https://imgs.xkcd.com/comics/spectroscopy.png)
 
-[原址](https://xkcd.com//1494) [下载](https://imgs.xkcd.com/comics/insurance.png)
+[原址](https://xkcd.com//1517) [下载](https://imgs.xkcd.com/comics/spectroscopy.png)
+
+
+
+### Win by Induction
+No.1516
+![图片不见了~~~](https://imgs.xkcd.com/comics/win_by_induction.png)
+
+[原址](https://xkcd.com//1516) [下载](https://imgs.xkcd.com/comics/win_by_induction.png)
 
 
 
