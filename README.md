@@ -7,36 +7,36 @@
 
 
 ## 最新漫画
-### Geography
-No.1472
-![图片不见了~~~](https://imgs.xkcd.com/comics/geography.png)
+### Opportunity
+No.1504
+![图片不见了~~~](https://imgs.xkcd.com/comics/opportunity.png)
 
-[原址](https://xkcd.com//1472) [下载](https://imgs.xkcd.com/comics/geography.png)
+[原址](https://xkcd.com//1504) [下载](https://imgs.xkcd.com/comics/opportunity.png)
 
 
 
 ## 随机漫画
-### Blind Trials
-No.1462
-![图片不见了~~~](https://imgs.xkcd.com/comics/blind_trials.png)
+### Upside-Down Map
+No.1500
+![图片不见了~~~](https://imgs.xkcd.com/comics/upside_down_map.png)
 
-[原址](https://xkcd.com//1462) [下载](https://imgs.xkcd.com/comics/blind_trials.png)
-
-
-
-### Feedback
-No.1457
-![图片不见了~~~](https://imgs.xkcd.com/comics/feedback.png)
-
-[原址](https://xkcd.com//1457) [下载](https://imgs.xkcd.com/comics/feedback.png)
+[原址](https://xkcd.com//1500) [下载](https://imgs.xkcd.com/comics/upside_down_map.png)
 
 
 
-### Turnabout
-No.1441
-![图片不见了~~~](https://imgs.xkcd.com/comics/turnabout.png)
+### API
+No.1481
+![图片不见了~~~](https://imgs.xkcd.com/comics/api.png)
 
-[原址](https://xkcd.com//1441) [下载](https://imgs.xkcd.com/comics/turnabout.png)
+[原址](https://xkcd.com//1481) [下载](https://imgs.xkcd.com/comics/api.png)
+
+
+
+### Insurance
+No.1494
+![图片不见了~~~](https://imgs.xkcd.com/comics/insurance.png)
+
+[原址](https://xkcd.com//1494) [下载](https://imgs.xkcd.com/comics/insurance.png)
 
 
 
