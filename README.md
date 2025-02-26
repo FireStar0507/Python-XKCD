@@ -7,36 +7,36 @@
 
 
 ## 最新漫画
-### MarketWatch
-No.1600
-![图片不见了~~~](https://imgs.xkcd.com/comics/marketwatch.png)
+### Palindrome
+No.1632
+![图片不见了~~~](https://imgs.xkcd.com/comics/palindrome.png)
 
-[原址](https://xkcd.com//1600) [下载](https://imgs.xkcd.com/comics/marketwatch.png)
+[原址](https://xkcd.com//1632) [下载](https://imgs.xkcd.com/comics/palindrome.png)
 
 
 
 ## 随机漫画
-### Similarities
-No.1585
-![图片不见了~~~](https://imgs.xkcd.com/comics/similarities.png)
+### Hoverboard
+No.1608
+![图片不见了~~~](https://imgs.xkcd.com/comics/)
 
-[原址](https://xkcd.com//1585) [下载](https://imgs.xkcd.com/comics/similarities.png)
-
-
-
-### I Could Care Less
-No.1576
-![图片不见了~~~](https://imgs.xkcd.com/comics/i_could_care_less.png)
-
-[原址](https://xkcd.com//1576) [下载](https://imgs.xkcd.com/comics/i_could_care_less.png)
+[原址](https://xkcd.com//1608) [下载](https://imgs.xkcd.com/comics/)
 
 
 
-### Squirrelphone
-No.1578
-![图片不见了~~~](https://imgs.xkcd.com/comics/squirrelphone.png)
+### Flashlights
+No.1603
+![图片不见了~~~](https://imgs.xkcd.com/comics/flashlights.png)
 
-[原址](https://xkcd.com//1578) [下载](https://imgs.xkcd.com/comics/squirrelphone.png)
+[原址](https://xkcd.com//1603) [下载](https://imgs.xkcd.com/comics/flashlights.png)
+
+
+
+### Substitutions 2
+No.1625
+![图片不见了~~~](https://imgs.xkcd.com/comics/substitutions_2.png)
+
+[原址](https://xkcd.com//1625) [下载](https://imgs.xkcd.com/comics/substitutions_2.png)
 
 
 
