@@ -7,36 +7,36 @@
 
 
 ## 最新漫画
-### Palindrome
-No.1632
-![图片不见了~~~](https://imgs.xkcd.com/comics/palindrome.png)
+### Mycology
+No.1664
+![图片不见了~~~](https://imgs.xkcd.com/comics/mycology.png)
 
-[原址](https://xkcd.com//1632) [下载](https://imgs.xkcd.com/comics/palindrome.png)
+[原址](https://xkcd.com//1664) [下载](https://imgs.xkcd.com/comics/mycology.png)
 
 
 
 ## 随机漫画
-### Hoverboard
-No.1608
-![图片不见了~~~](https://imgs.xkcd.com/comics/)
+### Baby
+No.1650
+![图片不见了~~~](https://imgs.xkcd.com/comics/baby.png)
 
-[原址](https://xkcd.com//1608) [下载](https://imgs.xkcd.com/comics/)
-
-
-
-### Flashlights
-No.1603
-![图片不见了~~~](https://imgs.xkcd.com/comics/flashlights.png)
-
-[原址](https://xkcd.com//1603) [下载](https://imgs.xkcd.com/comics/flashlights.png)
+[原址](https://xkcd.com//1650) [下载](https://imgs.xkcd.com/comics/baby.png)
 
 
 
-### Substitutions 2
-No.1625
-![图片不见了~~~](https://imgs.xkcd.com/comics/substitutions_2.png)
+### Diacritics
+No.1647
+![图片不见了~~~](https://imgs.xkcd.com/comics/diacritics.png)
 
-[原址](https://xkcd.com//1625) [下载](https://imgs.xkcd.com/comics/substitutions_2.png)
+[原址](https://xkcd.com//1647) [下载](https://imgs.xkcd.com/comics/diacritics.png)
+
+
+
+### Mycology
+No.1664
+![图片不见了~~~](https://imgs.xkcd.com/comics/mycology.png)
+
+[原址](https://xkcd.com//1664) [下载](https://imgs.xkcd.com/comics/mycology.png)
 
 
 
