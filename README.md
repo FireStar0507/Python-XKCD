@@ -7,36 +7,36 @@
 
 
 ## 最新漫画
-### AI Research
-No.1696
-![图片不见了~~~](https://imgs.xkcd.com/comics/ai_research.png)
+### Cron Mail
+No.1728
+![图片不见了~~~](https://imgs.xkcd.com/comics/cron_mail.png)
 
-[原址](https://xkcd.com//1696) [下载](https://imgs.xkcd.com/comics/ai_research.png)
+[原址](https://xkcd.com//1728) [下载](https://imgs.xkcd.com/comics/cron_mail.png)
 
 
 
 ## 随机漫画
-### Algorithms
-No.1667
-![图片不见了~~~](https://imgs.xkcd.com/comics/algorithms.png)
+### 50 ccs
+No.1713
+![图片不见了~~~](https://imgs.xkcd.com/comics/50_ccs.png)
 
-[原址](https://xkcd.com//1667) [下载](https://imgs.xkcd.com/comics/algorithms.png)
-
-
-
-### Singularity
-No.1668
-![图片不见了~~~](https://imgs.xkcd.com/comics/singularity.png)
-
-[原址](https://xkcd.com//1668) [下载](https://imgs.xkcd.com/comics/singularity.png)
+[原址](https://xkcd.com//1713) [下载](https://imgs.xkcd.com/comics/50_ccs.png)
 
 
 
-### My Friend Catherine
-No.1689
-![图片不见了~~~](https://imgs.xkcd.com/comics/my_friend_catherine.png)
+### Business Idea
+No.1721
+![图片不见了~~~](https://imgs.xkcd.com/comics/business_idea.png)
 
-[原址](https://xkcd.com//1689) [下载](https://imgs.xkcd.com/comics/my_friend_catherine.png)
+[原址](https://xkcd.com//1721) [下载](https://imgs.xkcd.com/comics/business_idea.png)
+
+
+
+### New Bug
+No.1700
+![图片不见了~~~](https://imgs.xkcd.com/comics/new_bug.png)
+
+[原址](https://xkcd.com//1700) [下载](https://imgs.xkcd.com/comics/new_bug.png)
 
 
 
