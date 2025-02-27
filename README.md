@@ -7,36 +7,36 @@
 
 
 ## 最新漫画
-### Mycology
-No.1664
-![图片不见了~~~](https://imgs.xkcd.com/comics/mycology.png)
+### AI Research
+No.1696
+![图片不见了~~~](https://imgs.xkcd.com/comics/ai_research.png)
 
-[原址](https://xkcd.com//1664) [下载](https://imgs.xkcd.com/comics/mycology.png)
+[原址](https://xkcd.com//1696) [下载](https://imgs.xkcd.com/comics/ai_research.png)
 
 
 
 ## 随机漫画
-### Baby
-No.1650
-![图片不见了~~~](https://imgs.xkcd.com/comics/baby.png)
+### Algorithms
+No.1667
+![图片不见了~~~](https://imgs.xkcd.com/comics/algorithms.png)
 
-[原址](https://xkcd.com//1650) [下载](https://imgs.xkcd.com/comics/baby.png)
-
-
-
-### Diacritics
-No.1647
-![图片不见了~~~](https://imgs.xkcd.com/comics/diacritics.png)
-
-[原址](https://xkcd.com//1647) [下载](https://imgs.xkcd.com/comics/diacritics.png)
+[原址](https://xkcd.com//1667) [下载](https://imgs.xkcd.com/comics/algorithms.png)
 
 
 
-### Mycology
-No.1664
-![图片不见了~~~](https://imgs.xkcd.com/comics/mycology.png)
+### Singularity
+No.1668
+![图片不见了~~~](https://imgs.xkcd.com/comics/singularity.png)
 
-[原址](https://xkcd.com//1664) [下载](https://imgs.xkcd.com/comics/mycology.png)
+[原址](https://xkcd.com//1668) [下载](https://imgs.xkcd.com/comics/singularity.png)
+
+
+
+### My Friend Catherine
+No.1689
+![图片不见了~~~](https://imgs.xkcd.com/comics/my_friend_catherine.png)
+
+[原址](https://xkcd.com//1689) [下载](https://imgs.xkcd.com/comics/my_friend_catherine.png)
 
 
 
