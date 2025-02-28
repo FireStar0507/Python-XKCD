@@ -7,36 +7,36 @@
 
 
 ## 最新漫画
-### Cron Mail
-No.1728
-![图片不见了~~~](https://imgs.xkcd.com/comics/cron_mail.png)
+### TV Problems
+No.1760
+![图片不见了~~~](https://imgs.xkcd.com/comics/tv_problems.png)
 
-[原址](https://xkcd.com//1728) [下载](https://imgs.xkcd.com/comics/cron_mail.png)
+[原址](https://xkcd.com//1760) [下载](https://imgs.xkcd.com/comics/tv_problems.png)
 
 
 
 ## 随机漫画
-### 50 ccs
-No.1713
-![图片不见了~~~](https://imgs.xkcd.com/comics/50_ccs.png)
+### Metabolism
+No.1744
+![图片不见了~~~](https://imgs.xkcd.com/comics/metabolism.png)
 
-[原址](https://xkcd.com//1713) [下载](https://imgs.xkcd.com/comics/50_ccs.png)
-
-
-
-### Business Idea
-No.1721
-![图片不见了~~~](https://imgs.xkcd.com/comics/business_idea.png)
-
-[原址](https://xkcd.com//1721) [下载](https://imgs.xkcd.com/comics/business_idea.png)
+[原址](https://xkcd.com//1744) [下载](https://imgs.xkcd.com/comics/metabolism.png)
 
 
 
-### New Bug
-No.1700
-![图片不见了~~~](https://imgs.xkcd.com/comics/new_bug.png)
+### Spider Paleontology
+No.1747
+![图片不见了~~~](https://imgs.xkcd.com/comics/spider_paleontology.png)
 
-[原址](https://xkcd.com//1700) [下载](https://imgs.xkcd.com/comics/new_bug.png)
+[原址](https://xkcd.com//1747) [下载](https://imgs.xkcd.com/comics/spider_paleontology.png)
+
+
+
+### TV Problems
+No.1760
+![图片不见了~~~](https://imgs.xkcd.com/comics/tv_problems.png)
+
+[原址](https://xkcd.com//1760) [下载](https://imgs.xkcd.com/comics/tv_problems.png)
 
 
 
