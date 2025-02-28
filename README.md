@@ -7,36 +7,36 @@
 
 
 ## 最新漫画
-### Bird/Plane/Superman
-No.1792
-![图片不见了~~~](https://imgs.xkcd.com/comics/bird_plane_superman.png)
+### Identification Chart
+No.1824
+![图片不见了~~~](https://imgs.xkcd.com/comics/identification_chart.png)
 
-[原址](https://xkcd.com//1792) [下载](https://imgs.xkcd.com/comics/bird_plane_superman.png)
+[原址](https://xkcd.com//1824) [下载](https://imgs.xkcd.com/comics/identification_chart.png)
 
 
 
 ## 随机漫画
-### Dear Diary
-No.1777
-![图片不见了~~~](https://imgs.xkcd.com/comics/dear_diary.png)
+### Rayleigh Scattering
+No.1818
+![图片不见了~~~](https://imgs.xkcd.com/comics/rayleigh_scattering.png)
 
-[原址](https://xkcd.com//1777) [下载](https://imgs.xkcd.com/comics/dear_diary.png)
-
-
-
-### Sad
-No.1790
-![图片不见了~~~](https://imgs.xkcd.com/comics/sad.png)
-
-[原址](https://xkcd.com//1790) [下载](https://imgs.xkcd.com/comics/sad.png)
+[原址](https://xkcd.com//1818) [下载](https://imgs.xkcd.com/comics/rayleigh_scattering.png)
 
 
 
-### Reindeer
-No.1776
-![图片不见了~~~](https://imgs.xkcd.com/comics/reindeer.png)
+### xkcd Phone 5
+No.1809
+![图片不见了~~~](https://imgs.xkcd.com/comics/xkcd_phone_5.png)
 
-[原址](https://xkcd.com//1776) [下载](https://imgs.xkcd.com/comics/reindeer.png)
+[原址](https://xkcd.com//1809) [下载](https://imgs.xkcd.com/comics/xkcd_phone_5.png)
+
+
+
+### Box Plot
+No.1798
+![图片不见了~~~](https://imgs.xkcd.com/comics/box_plot.png)
+
+[原址](https://xkcd.com//1798) [下载](https://imgs.xkcd.com/comics/box_plot.png)
 
 
 
