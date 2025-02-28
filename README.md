@@ -7,36 +7,36 @@
 
 
 ## 最新漫画
-### TV Problems
-No.1760
-![图片不见了~~~](https://imgs.xkcd.com/comics/tv_problems.png)
+### Bird/Plane/Superman
+No.1792
+![图片不见了~~~](https://imgs.xkcd.com/comics/bird_plane_superman.png)
 
-[原址](https://xkcd.com//1760) [下载](https://imgs.xkcd.com/comics/tv_problems.png)
+[原址](https://xkcd.com//1792) [下载](https://imgs.xkcd.com/comics/bird_plane_superman.png)
 
 
 
 ## 随机漫画
-### Metabolism
-No.1744
-![图片不见了~~~](https://imgs.xkcd.com/comics/metabolism.png)
+### Dear Diary
+No.1777
+![图片不见了~~~](https://imgs.xkcd.com/comics/dear_diary.png)
 
-[原址](https://xkcd.com//1744) [下载](https://imgs.xkcd.com/comics/metabolism.png)
-
-
-
-### Spider Paleontology
-No.1747
-![图片不见了~~~](https://imgs.xkcd.com/comics/spider_paleontology.png)
-
-[原址](https://xkcd.com//1747) [下载](https://imgs.xkcd.com/comics/spider_paleontology.png)
+[原址](https://xkcd.com//1777) [下载](https://imgs.xkcd.com/comics/dear_diary.png)
 
 
 
-### TV Problems
-No.1760
-![图片不见了~~~](https://imgs.xkcd.com/comics/tv_problems.png)
+### Sad
+No.1790
+![图片不见了~~~](https://imgs.xkcd.com/comics/sad.png)
 
-[原址](https://xkcd.com//1760) [下载](https://imgs.xkcd.com/comics/tv_problems.png)
+[原址](https://xkcd.com//1790) [下载](https://imgs.xkcd.com/comics/sad.png)
+
+
+
+### Reindeer
+No.1776
+![图片不见了~~~](https://imgs.xkcd.com/comics/reindeer.png)
+
+[原址](https://xkcd.com//1776) [下载](https://imgs.xkcd.com/comics/reindeer.png)
 
 
 
