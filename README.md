@@ -7,36 +7,36 @@
 
 
 ## 最新漫画
-### Identification Chart
-No.1824
-![图片不见了~~~](https://imgs.xkcd.com/comics/identification_chart.png)
+### Existence Proof
+No.1856
+![图片不见了~~~](https://imgs.xkcd.com/comics/existence_proof.png)
 
-[原址](https://xkcd.com//1824) [下载](https://imgs.xkcd.com/comics/identification_chart.png)
+[原址](https://xkcd.com//1856) [下载](https://imgs.xkcd.com/comics/existence_proof.png)
 
 
 
 ## 随机漫画
-### Rayleigh Scattering
-No.1818
-![图片不见了~~~](https://imgs.xkcd.com/comics/rayleigh_scattering.png)
+### Decades
+No.1849
+![图片不见了~~~](https://imgs.xkcd.com/comics/decades.png)
 
-[原址](https://xkcd.com//1818) [下载](https://imgs.xkcd.com/comics/rayleigh_scattering.png)
-
-
-
-### xkcd Phone 5
-No.1809
-![图片不见了~~~](https://imgs.xkcd.com/comics/xkcd_phone_5.png)
-
-[原址](https://xkcd.com//1809) [下载](https://imgs.xkcd.com/comics/xkcd_phone_5.png)
+[原址](https://xkcd.com//1849) [下载](https://imgs.xkcd.com/comics/decades.png)
 
 
 
-### Box Plot
-No.1798
-![图片不见了~~~](https://imgs.xkcd.com/comics/box_plot.png)
+### Refresh Types
+No.1854
+![图片不见了~~~](https://imgs.xkcd.com/comics/refresh_types.png)
 
-[原址](https://xkcd.com//1798) [下载](https://imgs.xkcd.com/comics/box_plot.png)
+[原址](https://xkcd.com//1854) [下载](https://imgs.xkcd.com/comics/refresh_types.png)
+
+
+
+### Genetic Testing Results
+No.1840
+![图片不见了~~~](https://imgs.xkcd.com/comics/genetic_testing_results.png)
+
+[原址](https://xkcd.com//1840) [下载](https://imgs.xkcd.com/comics/genetic_testing_results.png)
 
 
 
