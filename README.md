@@ -7,36 +7,36 @@
 
 
 ## 最新漫画
-### Existence Proof
-No.1856
-![图片不见了~~~](https://imgs.xkcd.com/comics/existence_proof.png)
+### Still in Use
+No.1888
+![图片不见了~~~](https://imgs.xkcd.com/comics/still_in_use.png)
 
-[原址](https://xkcd.com//1856) [下载](https://imgs.xkcd.com/comics/existence_proof.png)
+[原址](https://xkcd.com//1888) [下载](https://imgs.xkcd.com/comics/still_in_use.png)
 
 
 
 ## 随机漫画
-### Decades
-No.1849
-![图片不见了~~~](https://imgs.xkcd.com/comics/decades.png)
+### Emoji Movie
+No.1857
+![图片不见了~~~](https://imgs.xkcd.com/comics/emoji_movie.png)
 
-[原址](https://xkcd.com//1849) [下载](https://imgs.xkcd.com/comics/decades.png)
-
-
-
-### Refresh Types
-No.1854
-![图片不见了~~~](https://imgs.xkcd.com/comics/refresh_types.png)
-
-[原址](https://xkcd.com//1854) [下载](https://imgs.xkcd.com/comics/refresh_types.png)
+[原址](https://xkcd.com//1857) [下载](https://imgs.xkcd.com/comics/emoji_movie.png)
 
 
 
-### Genetic Testing Results
-No.1840
-![图片不见了~~~](https://imgs.xkcd.com/comics/genetic_testing_results.png)
+### Communicating
+No.1860
+![图片不见了~~~](https://imgs.xkcd.com/comics/communicating.png)
 
-[原址](https://xkcd.com//1840) [下载](https://imgs.xkcd.com/comics/genetic_testing_results.png)
+[原址](https://xkcd.com//1860) [下载](https://imgs.xkcd.com/comics/communicating.png)
+
+
+
+### Wifi vs Cellular
+No.1865
+![图片不见了~~~](https://imgs.xkcd.com/comics/wifi_vs_cellular.png)
+
+[原址](https://xkcd.com//1865) [下载](https://imgs.xkcd.com/comics/wifi_vs_cellular.png)
 
 
 
