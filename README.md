@@ -7,36 +7,36 @@
 
 
 ## 最新漫画
-### Still in Use
-No.1888
-![图片不见了~~~](https://imgs.xkcd.com/comics/still_in_use.png)
+### Emoji Sports
+No.1920
+![图片不见了~~~](https://imgs.xkcd.com/comics/emoji_sports.png)
 
-[原址](https://xkcd.com//1888) [下载](https://imgs.xkcd.com/comics/still_in_use.png)
+[原址](https://xkcd.com//1920) [下载](https://imgs.xkcd.com/comics/emoji_sports.png)
 
 
 
 ## 随机漫画
-### Emoji Movie
-No.1857
-![图片不见了~~~](https://imgs.xkcd.com/comics/emoji_movie.png)
+### Interstellar Asteroid
+No.1919
+![图片不见了~~~](https://imgs.xkcd.com/comics/interstellar_asteroid.png)
 
-[原址](https://xkcd.com//1857) [下载](https://imgs.xkcd.com/comics/emoji_movie.png)
-
-
-
-### Communicating
-No.1860
-![图片不见了~~~](https://imgs.xkcd.com/comics/communicating.png)
-
-[原址](https://xkcd.com//1860) [下载](https://imgs.xkcd.com/comics/communicating.png)
+[原址](https://xkcd.com//1919) [下载](https://imgs.xkcd.com/comics/interstellar_asteroid.png)
 
 
 
-### Wifi vs Cellular
-No.1865
-![图片不见了~~~](https://imgs.xkcd.com/comics/wifi_vs_cellular.png)
+### Logical
+No.1901
+![图片不见了~~~](https://imgs.xkcd.com/comics/logical.png)
 
-[原址](https://xkcd.com//1865) [下载](https://imgs.xkcd.com/comics/wifi_vs_cellular.png)
+[原址](https://xkcd.com//1901) [下载](https://imgs.xkcd.com/comics/logical.png)
+
+
+
+### NEXUS
+No.1918
+![图片不见了~~~](https://imgs.xkcd.com/comics/nexus.png)
+
+[原址](https://xkcd.com//1918) [下载](https://imgs.xkcd.com/comics/nexus.png)
 
 
 
