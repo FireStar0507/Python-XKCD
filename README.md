@@ -7,36 +7,36 @@
 
 
 ## 最新漫画
-### Backpack Decisions
-No.1952
-![图片不见了~~~](https://imgs.xkcd.com/comics/backpack_decisions.png)
+### Misinterpretation
+No.1984
+![图片不见了~~~](https://imgs.xkcd.com/comics/misinterpretation.png)
 
-[原址](https://xkcd.com//1952) [下载](https://imgs.xkcd.com/comics/backpack_decisions.png)
+[原址](https://xkcd.com//1984) [下载](https://imgs.xkcd.com/comics/misinterpretation.png)
 
 
 
 ## 随机漫画
-### Hawaii
-No.1946
-![图片不见了~~~](https://imgs.xkcd.com/comics/hawaii.png)
+### Star Lore
+No.1973
+![图片不见了~~~](https://imgs.xkcd.com/comics/star_lore.png)
 
-[原址](https://xkcd.com//1946) [下载](https://imgs.xkcd.com/comics/hawaii.png)
-
-
-
-### 2016 Election Map
-No.1939
-![图片不见了~~~](https://imgs.xkcd.com/comics/2016_election_map.png)
-
-[原址](https://xkcd.com//1939) [下载](https://imgs.xkcd.com/comics/2016_election_map.png)
+[原址](https://xkcd.com//1973) [下载](https://imgs.xkcd.com/comics/star_lore.png)
 
 
 
-### IATA Airport Abbreviations
-No.1937
-![图片不见了~~~](https://imgs.xkcd.com/comics/iata_airport_abbreviations.png)
+### Robots
+No.1955
+![图片不见了~~~](https://imgs.xkcd.com/comics/robots.png)
 
-[原址](https://xkcd.com//1937) [下载](https://imgs.xkcd.com/comics/iata_airport_abbreviations.png)
+[原址](https://xkcd.com//1955) [下载](https://imgs.xkcd.com/comics/robots.png)
+
+
+
+### Rickrolling Anniversary
+No.1981
+![图片不见了~~~](https://imgs.xkcd.com/comics/rickrolling_anniversary.png)
+
+[原址](https://xkcd.com//1981) [下载](https://imgs.xkcd.com/comics/rickrolling_anniversary.png)
 
 
 
