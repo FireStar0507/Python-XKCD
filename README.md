@@ -7,36 +7,36 @@
 
 
 ## 最新漫画
-### Emoji Sports
-No.1920
-![图片不见了~~~](https://imgs.xkcd.com/comics/emoji_sports.png)
+### Backpack Decisions
+No.1952
+![图片不见了~~~](https://imgs.xkcd.com/comics/backpack_decisions.png)
 
-[原址](https://xkcd.com//1920) [下载](https://imgs.xkcd.com/comics/emoji_sports.png)
+[原址](https://xkcd.com//1952) [下载](https://imgs.xkcd.com/comics/backpack_decisions.png)
 
 
 
 ## 随机漫画
-### Interstellar Asteroid
-No.1919
-![图片不见了~~~](https://imgs.xkcd.com/comics/interstellar_asteroid.png)
+### Hawaii
+No.1946
+![图片不见了~~~](https://imgs.xkcd.com/comics/hawaii.png)
 
-[原址](https://xkcd.com//1919) [下载](https://imgs.xkcd.com/comics/interstellar_asteroid.png)
-
-
-
-### Logical
-No.1901
-![图片不见了~~~](https://imgs.xkcd.com/comics/logical.png)
-
-[原址](https://xkcd.com//1901) [下载](https://imgs.xkcd.com/comics/logical.png)
+[原址](https://xkcd.com//1946) [下载](https://imgs.xkcd.com/comics/hawaii.png)
 
 
 
-### NEXUS
-No.1918
-![图片不见了~~~](https://imgs.xkcd.com/comics/nexus.png)
+### 2016 Election Map
+No.1939
+![图片不见了~~~](https://imgs.xkcd.com/comics/2016_election_map.png)
 
-[原址](https://xkcd.com//1918) [下载](https://imgs.xkcd.com/comics/nexus.png)
+[原址](https://xkcd.com//1939) [下载](https://imgs.xkcd.com/comics/2016_election_map.png)
+
+
+
+### IATA Airport Abbreviations
+No.1937
+![图片不见了~~~](https://imgs.xkcd.com/comics/iata_airport_abbreviations.png)
+
+[原址](https://xkcd.com//1937) [下载](https://imgs.xkcd.com/comics/iata_airport_abbreviations.png)
 
 
 
