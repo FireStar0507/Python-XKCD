@@ -7,36 +7,36 @@
 
 
 ## 最新漫画
-### Cohort and Age Effects
-No.2080
-![图片不见了~~~](https://imgs.xkcd.com/comics/cohort_and_age_effects.png)
+### Night Shift
+No.2112
+![图片不见了~~~](https://imgs.xkcd.com/comics/night_shift.png)
 
-[原址](https://xkcd.com//2080) [下载](https://imgs.xkcd.com/comics/cohort_and_age_effects.png)
+[原址](https://xkcd.com//2112) [下载](https://imgs.xkcd.com/comics/night_shift.png)
 
 
 
 ## 随机漫画
-### Bad Opinions
-No.2051
-![图片不见了~~~](https://imgs.xkcd.com/comics/bad_opinions.png)
+### Technical Analysis
+No.2101
+![图片不见了~~~](https://imgs.xkcd.com/comics/technical_analysis.png)
 
-[原址](https://xkcd.com//2051) [下载](https://imgs.xkcd.com/comics/bad_opinions.png)
-
-
-
-### Ballot Selfies
-No.2066
-![图片不见了~~~](https://imgs.xkcd.com/comics/ballot_selfies.png)
-
-[原址](https://xkcd.com//2066) [下载](https://imgs.xkcd.com/comics/ballot_selfies.png)
+[原址](https://xkcd.com//2101) [下载](https://imgs.xkcd.com/comics/technical_analysis.png)
 
 
 
-### Incoming Calls
-No.2053
-![图片不见了~~~](https://imgs.xkcd.com/comics/incoming_calls.png)
+### History Department
+No.2086
+![图片不见了~~~](https://imgs.xkcd.com/comics/history_department.png)
 
-[原址](https://xkcd.com//2053) [下载](https://imgs.xkcd.com/comics/incoming_calls.png)
+[原址](https://xkcd.com//2086) [下载](https://imgs.xkcd.com/comics/history_department.png)
+
+
+
+### Midcontinent Rift System
+No.2103
+![图片不见了~~~](https://imgs.xkcd.com/comics/midcontinent_rift_system.png)
+
+[原址](https://xkcd.com//2103) [下载](https://imgs.xkcd.com/comics/midcontinent_rift_system.png)
 
 
 
