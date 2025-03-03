@@ -7,36 +7,36 @@
 
 
 ## 最新漫画
-### OEIS Submissions
-No.2016
-![图片不见了~~~](https://imgs.xkcd.com/comics/oeis_submissions.png)
+### Curve-Fitting
+No.2048
+![图片不见了~~~](https://imgs.xkcd.com/comics/curve_fitting.png)
 
-[原址](https://xkcd.com//2016) [下载](https://imgs.xkcd.com/comics/oeis_submissions.png)
+[原址](https://xkcd.com//2048) [下载](https://imgs.xkcd.com/comics/curve_fitting.png)
 
 
 
 ## 随机漫画
-### LeBron James and Stephen Curry
-No.2002
-![图片不见了~~~](https://imgs.xkcd.com/comics/lebron_james_and_stephen_curry.png)
+### Complex Numbers
+No.2028
+![图片不见了~~~](https://imgs.xkcd.com/comics/complex_numbers.png)
 
-[原址](https://xkcd.com//2002) [下载](https://imgs.xkcd.com/comics/lebron_james_and_stephen_curry.png)
-
-
-
-### Rock
-No.2013
-![图片不见了~~~](https://imgs.xkcd.com/comics/rock.png)
-
-[原址](https://xkcd.com//2013) [下载](https://imgs.xkcd.com/comics/rock.png)
+[原址](https://xkcd.com//2028) [下载](https://imgs.xkcd.com/comics/complex_numbers.png)
 
 
 
-### New Phone Thread
-No.2015
-![图片不见了~~~](https://imgs.xkcd.com/comics/new_phone_thread.png)
+### Wall Art
+No.2018
+![图片不见了~~~](https://imgs.xkcd.com/comics/wall_art.png)
 
-[原址](https://xkcd.com//2015) [下载](https://imgs.xkcd.com/comics/new_phone_thread.png)
+[原址](https://xkcd.com//2018) [下载](https://imgs.xkcd.com/comics/wall_art.png)
+
+
+
+### Edgelord
+No.2036
+![图片不见了~~~](https://imgs.xkcd.com/comics/edgelord.png)
+
+[原址](https://xkcd.com//2036) [下载](https://imgs.xkcd.com/comics/edgelord.png)
 
 
 
