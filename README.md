@@ -7,36 +7,36 @@
 
 
 ## 最新漫画
-### Curve-Fitting
-No.2048
-![图片不见了~~~](https://imgs.xkcd.com/comics/curve_fitting.png)
+### Cohort and Age Effects
+No.2080
+![图片不见了~~~](https://imgs.xkcd.com/comics/cohort_and_age_effects.png)
 
-[原址](https://xkcd.com//2048) [下载](https://imgs.xkcd.com/comics/curve_fitting.png)
+[原址](https://xkcd.com//2080) [下载](https://imgs.xkcd.com/comics/cohort_and_age_effects.png)
 
 
 
 ## 随机漫画
-### Complex Numbers
-No.2028
-![图片不见了~~~](https://imgs.xkcd.com/comics/complex_numbers.png)
+### Bad Opinions
+No.2051
+![图片不见了~~~](https://imgs.xkcd.com/comics/bad_opinions.png)
 
-[原址](https://xkcd.com//2028) [下载](https://imgs.xkcd.com/comics/complex_numbers.png)
-
-
-
-### Wall Art
-No.2018
-![图片不见了~~~](https://imgs.xkcd.com/comics/wall_art.png)
-
-[原址](https://xkcd.com//2018) [下载](https://imgs.xkcd.com/comics/wall_art.png)
+[原址](https://xkcd.com//2051) [下载](https://imgs.xkcd.com/comics/bad_opinions.png)
 
 
 
-### Edgelord
-No.2036
-![图片不见了~~~](https://imgs.xkcd.com/comics/edgelord.png)
+### Ballot Selfies
+No.2066
+![图片不见了~~~](https://imgs.xkcd.com/comics/ballot_selfies.png)
 
-[原址](https://xkcd.com//2036) [下载](https://imgs.xkcd.com/comics/edgelord.png)
+[原址](https://xkcd.com//2066) [下载](https://imgs.xkcd.com/comics/ballot_selfies.png)
+
+
+
+### Incoming Calls
+No.2053
+![图片不见了~~~](https://imgs.xkcd.com/comics/incoming_calls.png)
+
+[原址](https://xkcd.com//2053) [下载](https://imgs.xkcd.com/comics/incoming_calls.png)
 
 
 
