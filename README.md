@@ -7,36 +7,36 @@
 
 
 ## 最新漫画
-### Night Shift
-No.2112
-![图片不见了~~~](https://imgs.xkcd.com/comics/night_shift.png)
+### Adjusting a Chair
+No.2144
+![图片不见了~~~](https://imgs.xkcd.com/comics/adjusting_a_chair.png)
 
-[原址](https://xkcd.com//2112) [下载](https://imgs.xkcd.com/comics/night_shift.png)
+[原址](https://xkcd.com//2144) [下载](https://imgs.xkcd.com/comics/adjusting_a_chair.png)
 
 
 
 ## 随机漫画
-### Technical Analysis
-No.2101
-![图片不见了~~~](https://imgs.xkcd.com/comics/technical_analysis.png)
+### Normal Distribution
+No.2118
+![图片不见了~~~](https://imgs.xkcd.com/comics/normal_distribution.png)
 
-[原址](https://xkcd.com//2101) [下载](https://imgs.xkcd.com/comics/technical_analysis.png)
-
-
-
-### History Department
-No.2086
-![图片不见了~~~](https://imgs.xkcd.com/comics/history_department.png)
-
-[原址](https://xkcd.com//2086) [下载](https://imgs.xkcd.com/comics/history_department.png)
+[原址](https://xkcd.com//2118) [下载](https://imgs.xkcd.com/comics/normal_distribution.png)
 
 
 
-### Midcontinent Rift System
-No.2103
-![图片不见了~~~](https://imgs.xkcd.com/comics/midcontinent_rift_system.png)
+### Industry Nicknames
+No.2130
+![图片不见了~~~](https://imgs.xkcd.com/comics/industry_nicknames.png)
 
-[原址](https://xkcd.com//2103) [下载](https://imgs.xkcd.com/comics/midcontinent_rift_system.png)
+[原址](https://xkcd.com//2130) [下载](https://imgs.xkcd.com/comics/industry_nicknames.png)
+
+
+
+### UI vs UX
+No.2141
+![图片不见了~~~](https://imgs.xkcd.com/comics/ui_vs_ux.png)
+
+[原址](https://xkcd.com//2141) [下载](https://imgs.xkcd.com/comics/ui_vs_ux.png)
 
 
 
