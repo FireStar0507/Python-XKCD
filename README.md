@@ -7,36 +7,36 @@
 
 
 ## 最新漫画
-### Adjusting a Chair
-No.2144
-![图片不见了~~~](https://imgs.xkcd.com/comics/adjusting_a_chair.png)
+### How Hacking Works
+No.2176
+![图片不见了~~~](https://imgs.xkcd.com/comics/how_hacking_works.png)
 
-[原址](https://xkcd.com//2144) [下载](https://imgs.xkcd.com/comics/adjusting_a_chair.png)
+[原址](https://xkcd.com//2176) [下载](https://imgs.xkcd.com/comics/how_hacking_works.png)
 
 
 
 ## 随机漫画
-### Normal Distribution
-No.2118
-![图片不见了~~~](https://imgs.xkcd.com/comics/normal_distribution.png)
+### Westerns
+No.2152
+![图片不见了~~~](https://imgs.xkcd.com/comics/westerns.png)
 
-[原址](https://xkcd.com//2118) [下载](https://imgs.xkcd.com/comics/normal_distribution.png)
-
-
-
-### Industry Nicknames
-No.2130
-![图片不见了~~~](https://imgs.xkcd.com/comics/industry_nicknames.png)
-
-[原址](https://xkcd.com//2130) [下载](https://imgs.xkcd.com/comics/industry_nicknames.png)
+[原址](https://xkcd.com//2152) [下载](https://imgs.xkcd.com/comics/westerns.png)
 
 
 
-### UI vs UX
-No.2141
-![图片不见了~~~](https://imgs.xkcd.com/comics/ui_vs_ux.png)
+### Shadow Biosphere
+No.2171
+![图片不见了~~~](https://imgs.xkcd.com/comics/shadow_biosphere.png)
 
-[原址](https://xkcd.com//2141) [下载](https://imgs.xkcd.com/comics/ui_vs_ux.png)
+[原址](https://xkcd.com//2171) [下载](https://imgs.xkcd.com/comics/shadow_biosphere.png)
+
+
+
+### Flag Interpretation
+No.2175
+![图片不见了~~~](https://imgs.xkcd.com/comics/flag_interpretation.png)
+
+[原址](https://xkcd.com//2175) [下载](https://imgs.xkcd.com/comics/flag_interpretation.png)
 
 
 
