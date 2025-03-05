@@ -7,36 +7,36 @@
 
 
 ## 最新漫画
-### Ringtone Timeline
-No.2272
-![图片不见了~~~](https://imgs.xkcd.com/comics/ringtone_timeline.png)
+### Preprint
+No.2304
+![图片不见了~~~](https://imgs.xkcd.com/comics/preprint.png)
 
-[原址](https://xkcd.com//2272) [下载](https://imgs.xkcd.com/comics/ringtone_timeline.png)
+[原址](https://xkcd.com//2304) [下载](https://imgs.xkcd.com/comics/preprint.png)
 
 
 
 ## 随机漫画
-### Tattoo Ideas
-No.2255
-![图片不见了~~~](https://imgs.xkcd.com/comics/tattoo_ideas.png)
+### New Sports System
+No.2291
+![图片不见了~~~](https://imgs.xkcd.com/comics/new_sports_system.png)
 
-[原址](https://xkcd.com//2255) [下载](https://imgs.xkcd.com/comics/tattoo_ideas.png)
-
-
-
-### Reaction Maps
-No.2260
-![图片不见了~~~](https://imgs.xkcd.com/comics/reaction_maps.png)
-
-[原址](https://xkcd.com//2260) [下载](https://imgs.xkcd.com/comics/reaction_maps.png)
+[原址](https://xkcd.com//2291) [下载](https://imgs.xkcd.com/comics/new_sports_system.png)
 
 
 
-### OK/okay/ok
-No.2250
-![图片不见了~~~](https://imgs.xkcd.com/comics/ok_okay_ok.png)
+### Business Greetings
+No.2277
+![图片不见了~~~](https://imgs.xkcd.com/comics/business_greetings.png)
 
-[原址](https://xkcd.com//2250) [下载](https://imgs.xkcd.com/comics/ok_okay_ok.png)
+[原址](https://xkcd.com//2277) [下载](https://imgs.xkcd.com/comics/business_greetings.png)
+
+
+
+### Coronavirus Worries
+No.2282
+![图片不见了~~~](https://imgs.xkcd.com/comics/coronavirus_worries.png)
+
+[原址](https://xkcd.com//2282) [下载](https://imgs.xkcd.com/comics/coronavirus_worries.png)
 
 
 
