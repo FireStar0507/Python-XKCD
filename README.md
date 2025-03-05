@@ -7,36 +7,36 @@
 
 
 ## 最新漫画
-### Timeline of the Universe
-No.2240
-![图片不见了~~~](https://imgs.xkcd.com/comics/timeline_of_the_universe.png)
+### Ringtone Timeline
+No.2272
+![图片不见了~~~](https://imgs.xkcd.com/comics/ringtone_timeline.png)
 
-[原址](https://xkcd.com//2240) [下载](https://imgs.xkcd.com/comics/timeline_of_the_universe.png)
+[原址](https://xkcd.com//2272) [下载](https://imgs.xkcd.com/comics/ringtone_timeline.png)
 
 
 
 ## 随机漫画
-### Hours Before Departure
-No.2211
-![图片不见了~~~](https://imgs.xkcd.com/comics/hours_before_departure.png)
+### Tattoo Ideas
+No.2255
+![图片不见了~~~](https://imgs.xkcd.com/comics/tattoo_ideas.png)
 
-[原址](https://xkcd.com//2211) [下载](https://imgs.xkcd.com/comics/hours_before_departure.png)
-
-
-
-### Data Error
-No.2239
-![图片不见了~~~](https://imgs.xkcd.com/comics/data_error.png)
-
-[原址](https://xkcd.com//2239) [下载](https://imgs.xkcd.com/comics/data_error.png)
+[原址](https://xkcd.com//2255) [下载](https://imgs.xkcd.com/comics/tattoo_ideas.png)
 
 
 
-### Faculty:Student Ratio
-No.2215
-![图片不见了~~~](https://imgs.xkcd.com/comics/faculty_student_ratio.png)
+### Reaction Maps
+No.2260
+![图片不见了~~~](https://imgs.xkcd.com/comics/reaction_maps.png)
 
-[原址](https://xkcd.com//2215) [下载](https://imgs.xkcd.com/comics/faculty_student_ratio.png)
+[原址](https://xkcd.com//2260) [下载](https://imgs.xkcd.com/comics/reaction_maps.png)
+
+
+
+### OK/okay/ok
+No.2250
+![图片不见了~~~](https://imgs.xkcd.com/comics/ok_okay_ok.png)
+
+[原址](https://xkcd.com//2250) [下载](https://imgs.xkcd.com/comics/ok_okay_ok.png)
 
 
 
