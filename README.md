@@ -7,36 +7,36 @@
 
 
 ## 最新漫画
-### Drone Fishing
-No.2208
-![图片不见了~~~](https://imgs.xkcd.com/comics/drone_fishing.png)
+### Timeline of the Universe
+No.2240
+![图片不见了~~~](https://imgs.xkcd.com/comics/timeline_of_the_universe.png)
 
-[原址](https://xkcd.com//2208) [下载](https://imgs.xkcd.com/comics/drone_fishing.png)
+[原址](https://xkcd.com//2240) [下载](https://imgs.xkcd.com/comics/timeline_of_the_universe.png)
 
 
 
 ## 随机漫画
-### Types of Approximation
-No.2205
-![图片不见了~~~](https://imgs.xkcd.com/comics/types_of_approximation.png)
+### Hours Before Departure
+No.2211
+![图片不见了~~~](https://imgs.xkcd.com/comics/hours_before_departure.png)
 
-[原址](https://xkcd.com//2205) [下载](https://imgs.xkcd.com/comics/types_of_approximation.png)
-
-
-
-### Nice To E-Meet You
-No.2196
-![图片不见了~~~](https://imgs.xkcd.com/comics/nice_to_e_meet_you.png)
-
-[原址](https://xkcd.com//2196) [下载](https://imgs.xkcd.com/comics/nice_to_e_meet_you.png)
+[原址](https://xkcd.com//2211) [下载](https://imgs.xkcd.com/comics/hours_before_departure.png)
 
 
 
-### E Scooters
-No.2188
-![图片不见了~~~](https://imgs.xkcd.com/comics/e_scooters.png)
+### Data Error
+No.2239
+![图片不见了~~~](https://imgs.xkcd.com/comics/data_error.png)
 
-[原址](https://xkcd.com//2188) [下载](https://imgs.xkcd.com/comics/e_scooters.png)
+[原址](https://xkcd.com//2239) [下载](https://imgs.xkcd.com/comics/data_error.png)
+
+
+
+### Faculty:Student Ratio
+No.2215
+![图片不见了~~~](https://imgs.xkcd.com/comics/faculty_student_ratio.png)
+
+[原址](https://xkcd.com//2215) [下载](https://imgs.xkcd.com/comics/faculty_student_ratio.png)
 
 
 
