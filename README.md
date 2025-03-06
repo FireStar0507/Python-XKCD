@@ -7,36 +7,36 @@
 
 
 ## 最新漫画
-### Bigger Problem
-No.2368
-![图片不见了~~~](https://imgs.xkcd.com/comics/bigger_problem.png)
+### Statistics
+No.2400
+![图片不见了~~~](https://imgs.xkcd.com/comics/statistics.png)
 
-[原址](https://xkcd.com//2368) [下载](https://imgs.xkcd.com/comics/bigger_problem.png)
+[原址](https://xkcd.com//2400) [下载](https://imgs.xkcd.com/comics/statistics.png)
 
 
 
 ## 随机漫画
-### Stellar Evolution
-No.2354
-![图片不见了~~~](https://imgs.xkcd.com/comics/stellar_evolution.png)
+### Probability Comparisons
+No.2379
+![图片不见了~~~](https://imgs.xkcd.com/comics/probability_comparisons.png)
 
-[原址](https://xkcd.com//2354) [下载](https://imgs.xkcd.com/comics/stellar_evolution.png)
-
-
-
-### Deer Turrets
-No.2350
-![图片不见了~~~](https://imgs.xkcd.com/comics/deer_turrets.png)
-
-[原址](https://xkcd.com//2350) [下载](https://imgs.xkcd.com/comics/deer_turrets.png)
+[原址](https://xkcd.com//2379) [下载](https://imgs.xkcd.com/comics/probability_comparisons.png)
 
 
 
-### Message Boards
-No.2363
-![图片不见了~~~](https://imgs.xkcd.com/comics/message_boards.png)
+### Presidential Middle Names
+No.2393
+![图片不见了~~~](https://imgs.xkcd.com/comics/presidential_middle_names.png)
 
-[原址](https://xkcd.com//2363) [下载](https://imgs.xkcd.com/comics/message_boards.png)
+[原址](https://xkcd.com//2393) [下载](https://imgs.xkcd.com/comics/presidential_middle_names.png)
+
+
+
+### Statistics
+No.2400
+![图片不见了~~~](https://imgs.xkcd.com/comics/statistics.png)
+
+[原址](https://xkcd.com//2400) [下载](https://imgs.xkcd.com/comics/statistics.png)
 
 
 
