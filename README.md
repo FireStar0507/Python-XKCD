@@ -7,36 +7,36 @@
 
 
 ## 最新漫画
-### Preprint
-No.2304
-![图片不见了~~~](https://imgs.xkcd.com/comics/preprint.png)
+### Campfire Habitable Zone
+No.2336
+![图片不见了~~~](https://imgs.xkcd.com/comics/campfire_habitable_zone.png)
 
-[原址](https://xkcd.com//2304) [下载](https://imgs.xkcd.com/comics/preprint.png)
+[原址](https://xkcd.com//2336) [下载](https://imgs.xkcd.com/comics/campfire_habitable_zone.png)
 
 
 
 ## 随机漫画
-### New Sports System
-No.2291
-![图片不见了~~~](https://imgs.xkcd.com/comics/new_sports_system.png)
+### Pinouts
+No.2317
+![图片不见了~~~](https://imgs.xkcd.com/comics/pinouts.png)
 
-[原址](https://xkcd.com//2291) [下载](https://imgs.xkcd.com/comics/new_sports_system.png)
-
-
-
-### Business Greetings
-No.2277
-![图片不见了~~~](https://imgs.xkcd.com/comics/business_greetings.png)
-
-[原址](https://xkcd.com//2277) [下载](https://imgs.xkcd.com/comics/business_greetings.png)
+[原址](https://xkcd.com//2317) [下载](https://imgs.xkcd.com/comics/pinouts.png)
 
 
 
-### Coronavirus Worries
-No.2282
-![图片不见了~~~](https://imgs.xkcd.com/comics/coronavirus_worries.png)
+### Large Number Formats
+No.2319
+![图片不见了~~~](https://imgs.xkcd.com/comics/large_number_formats.png)
 
-[原址](https://xkcd.com//2282) [下载](https://imgs.xkcd.com/comics/coronavirus_worries.png)
+[原址](https://xkcd.com//2319) [下载](https://imgs.xkcd.com/comics/large_number_formats.png)
+
+
+
+### Five Word Jargon
+No.2326
+![图片不见了~~~](https://imgs.xkcd.com/comics/five_word_jargon.png)
+
+[原址](https://xkcd.com//2326) [下载](https://imgs.xkcd.com/comics/five_word_jargon.png)
 
 
 
