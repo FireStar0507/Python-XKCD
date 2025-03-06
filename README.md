@@ -7,36 +7,36 @@
 
 
 ## 最新漫画
-### Campfire Habitable Zone
-No.2336
-![图片不见了~~~](https://imgs.xkcd.com/comics/campfire_habitable_zone.png)
+### Bigger Problem
+No.2368
+![图片不见了~~~](https://imgs.xkcd.com/comics/bigger_problem.png)
 
-[原址](https://xkcd.com//2336) [下载](https://imgs.xkcd.com/comics/campfire_habitable_zone.png)
+[原址](https://xkcd.com//2368) [下载](https://imgs.xkcd.com/comics/bigger_problem.png)
 
 
 
 ## 随机漫画
-### Pinouts
-No.2317
-![图片不见了~~~](https://imgs.xkcd.com/comics/pinouts.png)
+### Stellar Evolution
+No.2354
+![图片不见了~~~](https://imgs.xkcd.com/comics/stellar_evolution.png)
 
-[原址](https://xkcd.com//2317) [下载](https://imgs.xkcd.com/comics/pinouts.png)
-
-
-
-### Large Number Formats
-No.2319
-![图片不见了~~~](https://imgs.xkcd.com/comics/large_number_formats.png)
-
-[原址](https://xkcd.com//2319) [下载](https://imgs.xkcd.com/comics/large_number_formats.png)
+[原址](https://xkcd.com//2354) [下载](https://imgs.xkcd.com/comics/stellar_evolution.png)
 
 
 
-### Five Word Jargon
-No.2326
-![图片不见了~~~](https://imgs.xkcd.com/comics/five_word_jargon.png)
+### Deer Turrets
+No.2350
+![图片不见了~~~](https://imgs.xkcd.com/comics/deer_turrets.png)
 
-[原址](https://xkcd.com//2326) [下载](https://imgs.xkcd.com/comics/five_word_jargon.png)
+[原址](https://xkcd.com//2350) [下载](https://imgs.xkcd.com/comics/deer_turrets.png)
+
+
+
+### Message Boards
+No.2363
+![图片不见了~~~](https://imgs.xkcd.com/comics/message_boards.png)
+
+[原址](https://xkcd.com//2363) [下载](https://imgs.xkcd.com/comics/message_boards.png)
 
 
 
