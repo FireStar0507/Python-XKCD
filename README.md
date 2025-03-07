@@ -7,36 +7,36 @@
 
 
 ## 最新漫画
-### Muller's Ratchet
-No.2464
-![图片不见了~~~](https://imgs.xkcd.com/comics/mullers_ratchet.png)
+### Mine Captcha
+No.2496
+![图片不见了~~~](https://imgs.xkcd.com/comics/mine_captcha.png)
 
-[原址](https://xkcd.com//2464) [下载](https://imgs.xkcd.com/comics/mullers_ratchet.png)
+[原址](https://xkcd.com//2496) [下载](https://imgs.xkcd.com/comics/mine_captcha.png)
 
 
 
 ## 随机漫画
-### Mask Opinions
-No.2442
-![图片不见了~~~](https://imgs.xkcd.com/comics/mask_opinions.png)
+### Dual USB-C
+No.2493
+![图片不见了~~~](https://imgs.xkcd.com/comics/dual_usb_c.png)
 
-[原址](https://xkcd.com//2442) [下载](https://imgs.xkcd.com/comics/mask_opinions.png)
-
-
-
-### Mars Rovers
-No.2433
-![图片不见了~~~](https://imgs.xkcd.com/comics/mars_rovers.png)
-
-[原址](https://xkcd.com//2433) [下载](https://imgs.xkcd.com/comics/mars_rovers.png)
+[原址](https://xkcd.com//2493) [下载](https://imgs.xkcd.com/comics/dual_usb_c.png)
 
 
 
-### 90's Kid Space Program
-No.2461
-![图片不见了~~~](https://imgs.xkcd.com/comics/90s_kid_space_program.png)
+### Pre-Pandemic Ketchup
+No.2490
+![图片不见了~~~](https://imgs.xkcd.com/comics/pre_pandemic_ketchup.png)
 
-[原址](https://xkcd.com//2461) [下载](https://imgs.xkcd.com/comics/90s_kid_space_program.png)
+[原址](https://xkcd.com//2490) [下载](https://imgs.xkcd.com/comics/pre_pandemic_ketchup.png)
+
+
+
+### Immune Factory
+No.2491
+![图片不见了~~~](https://imgs.xkcd.com/comics/immune_factory.png)
+
+[原址](https://xkcd.com//2491) [下载](https://imgs.xkcd.com/comics/immune_factory.png)
 
 
 
