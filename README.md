@@ -7,36 +7,36 @@
 
 
 ## 最新漫画
-### Manage Your Preferences
-No.2432
-![图片不见了~~~](https://imgs.xkcd.com/comics/manage_your_preferences.png)
+### Muller's Ratchet
+No.2464
+![图片不见了~~~](https://imgs.xkcd.com/comics/mullers_ratchet.png)
 
-[原址](https://xkcd.com//2432) [下载](https://imgs.xkcd.com/comics/manage_your_preferences.png)
+[原址](https://xkcd.com//2464) [下载](https://imgs.xkcd.com/comics/mullers_ratchet.png)
 
 
 
 ## 随机漫画
-### Allow Captcha
-No.2415
-![图片不见了~~~](https://imgs.xkcd.com/comics/allow_captcha.png)
+### Mask Opinions
+No.2442
+![图片不见了~~~](https://imgs.xkcd.com/comics/mask_opinions.png)
 
-[原址](https://xkcd.com//2415) [下载](https://imgs.xkcd.com/comics/allow_captcha.png)
-
-
-
-### 1/1,000th Scale World
-No.2417
-![图片不见了~~~](https://imgs.xkcd.com/comics/1_1000th_scale_world.png)
-
-[原址](https://xkcd.com//2417) [下载](https://imgs.xkcd.com/comics/1_1000th_scale_world.png)
+[原址](https://xkcd.com//2442) [下载](https://imgs.xkcd.com/comics/mask_opinions.png)
 
 
 
-### Leap Year 2021
-No.2431
-![图片不见了~~~](https://imgs.xkcd.com/comics/leap_year_2021.png)
+### Mars Rovers
+No.2433
+![图片不见了~~~](https://imgs.xkcd.com/comics/mars_rovers.png)
 
-[原址](https://xkcd.com//2431) [下载](https://imgs.xkcd.com/comics/leap_year_2021.png)
+[原址](https://xkcd.com//2433) [下载](https://imgs.xkcd.com/comics/mars_rovers.png)
+
+
+
+### 90's Kid Space Program
+No.2461
+![图片不见了~~~](https://imgs.xkcd.com/comics/90s_kid_space_program.png)
+
+[原址](https://xkcd.com//2461) [下载](https://imgs.xkcd.com/comics/90s_kid_space_program.png)
 
 
 
