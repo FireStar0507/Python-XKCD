@@ -7,36 +7,36 @@
 
 
 ## 最新漫画
-### Mine Captcha
-No.2496
-![图片不见了~~~](https://imgs.xkcd.com/comics/mine_captcha.png)
+### Flag Map Sabotage
+No.2528
+![图片不见了~~~](https://imgs.xkcd.com/comics/flag_map_sabotage.png)
 
-[原址](https://xkcd.com//2496) [下载](https://imgs.xkcd.com/comics/mine_captcha.png)
+[原址](https://xkcd.com//2528) [下载](https://imgs.xkcd.com/comics/flag_map_sabotage.png)
 
 
 
 ## 随机漫画
-### Dual USB-C
-No.2493
-![图片不见了~~~](https://imgs.xkcd.com/comics/dual_usb_c.png)
+### Rover Replies
+No.2517
+![图片不见了~~~](https://imgs.xkcd.com/comics/rover_replies.png)
 
-[原址](https://xkcd.com//2493) [下载](https://imgs.xkcd.com/comics/dual_usb_c.png)
-
-
-
-### Pre-Pandemic Ketchup
-No.2490
-![图片不见了~~~](https://imgs.xkcd.com/comics/pre_pandemic_ketchup.png)
-
-[原址](https://xkcd.com//2490) [下载](https://imgs.xkcd.com/comics/pre_pandemic_ketchup.png)
+[原址](https://xkcd.com//2517) [下载](https://imgs.xkcd.com/comics/rover_replies.png)
 
 
 
-### Immune Factory
-No.2491
-![图片不见了~~~](https://imgs.xkcd.com/comics/immune_factory.png)
+### Toothpaste
+No.2521
+![图片不见了~~~](https://imgs.xkcd.com/comics/toothpaste.png)
 
-[原址](https://xkcd.com//2491) [下载](https://imgs.xkcd.com/comics/immune_factory.png)
+[原址](https://xkcd.com//2521) [下载](https://imgs.xkcd.com/comics/toothpaste.png)
+
+
+
+### Flag Map Sabotage
+No.2528
+![图片不见了~~~](https://imgs.xkcd.com/comics/flag_map_sabotage.png)
+
+[原址](https://xkcd.com//2528) [下载](https://imgs.xkcd.com/comics/flag_map_sabotage.png)
 
 
 
