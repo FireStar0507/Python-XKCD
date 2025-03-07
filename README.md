@@ -7,36 +7,36 @@
 
 
 ## 最新漫画
-### Statistics
-No.2400
-![图片不见了~~~](https://imgs.xkcd.com/comics/statistics.png)
+### Manage Your Preferences
+No.2432
+![图片不见了~~~](https://imgs.xkcd.com/comics/manage_your_preferences.png)
 
-[原址](https://xkcd.com//2400) [下载](https://imgs.xkcd.com/comics/statistics.png)
+[原址](https://xkcd.com//2432) [下载](https://imgs.xkcd.com/comics/manage_your_preferences.png)
 
 
 
 ## 随机漫画
-### Probability Comparisons
-No.2379
-![图片不见了~~~](https://imgs.xkcd.com/comics/probability_comparisons.png)
+### Allow Captcha
+No.2415
+![图片不见了~~~](https://imgs.xkcd.com/comics/allow_captcha.png)
 
-[原址](https://xkcd.com//2379) [下载](https://imgs.xkcd.com/comics/probability_comparisons.png)
-
-
-
-### Presidential Middle Names
-No.2393
-![图片不见了~~~](https://imgs.xkcd.com/comics/presidential_middle_names.png)
-
-[原址](https://xkcd.com//2393) [下载](https://imgs.xkcd.com/comics/presidential_middle_names.png)
+[原址](https://xkcd.com//2415) [下载](https://imgs.xkcd.com/comics/allow_captcha.png)
 
 
 
-### Statistics
-No.2400
-![图片不见了~~~](https://imgs.xkcd.com/comics/statistics.png)
+### 1/1,000th Scale World
+No.2417
+![图片不见了~~~](https://imgs.xkcd.com/comics/1_1000th_scale_world.png)
 
-[原址](https://xkcd.com//2400) [下载](https://imgs.xkcd.com/comics/statistics.png)
+[原址](https://xkcd.com//2417) [下载](https://imgs.xkcd.com/comics/1_1000th_scale_world.png)
+
+
+
+### Leap Year 2021
+No.2431
+![图片不见了~~~](https://imgs.xkcd.com/comics/leap_year_2021.png)
+
+[原址](https://xkcd.com//2431) [下载](https://imgs.xkcd.com/comics/leap_year_2021.png)
 
 
 
