@@ -7,36 +7,36 @@
 
 
 ## 最新漫画
-### Flag Map Sabotage
-No.2528
-![图片不见了~~~](https://imgs.xkcd.com/comics/flag_map_sabotage.png)
+### Confounding Variables
+No.2560
+![图片不见了~~~](https://imgs.xkcd.com/comics/confounding_variables.png)
 
-[原址](https://xkcd.com//2528) [下载](https://imgs.xkcd.com/comics/flag_map_sabotage.png)
+[原址](https://xkcd.com//2560) [下载](https://imgs.xkcd.com/comics/confounding_variables.png)
 
 
 
 ## 随机漫画
-### Rover Replies
-No.2517
-![图片不见了~~~](https://imgs.xkcd.com/comics/rover_replies.png)
+### Gift Exchange
+No.2554
+![图片不见了~~~](https://imgs.xkcd.com/comics/gift_exchange.png)
 
-[原址](https://xkcd.com//2517) [下载](https://imgs.xkcd.com/comics/rover_replies.png)
-
-
-
-### Toothpaste
-No.2521
-![图片不见了~~~](https://imgs.xkcd.com/comics/toothpaste.png)
-
-[原址](https://xkcd.com//2521) [下载](https://imgs.xkcd.com/comics/toothpaste.png)
+[原址](https://xkcd.com//2554) [下载](https://imgs.xkcd.com/comics/gift_exchange.png)
 
 
 
-### Flag Map Sabotage
-No.2528
-![图片不见了~~~](https://imgs.xkcd.com/comics/flag_map_sabotage.png)
+### Heart-Stopping Texts
+No.2544
+![图片不见了~~~](https://imgs.xkcd.com/comics/heart_stopping_texts.png)
 
-[原址](https://xkcd.com//2528) [下载](https://imgs.xkcd.com/comics/flag_map_sabotage.png)
+[原址](https://xkcd.com//2544) [下载](https://imgs.xkcd.com/comics/heart_stopping_texts.png)
+
+
+
+### TTSLTSWBD
+No.2540
+![图片不见了~~~](https://imgs.xkcd.com/comics/ttsltswbd.png)
+
+[原址](https://xkcd.com//2540) [下载](https://imgs.xkcd.com/comics/ttsltswbd.png)
 
 
 
