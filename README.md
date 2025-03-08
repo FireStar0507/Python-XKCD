@@ -7,36 +7,36 @@
 
 
 ## 最新漫画
-### False Dichotomy
-No.2592
-![图片不见了~~~](https://imgs.xkcd.com/comics/false_dichotomy.png)
+### Voyager Wires
+No.2624
+![图片不见了~~~](https://imgs.xkcd.com/comics/voyager_wires.png)
 
-[原址](https://xkcd.com//2592) [下载](https://imgs.xkcd.com/comics/false_dichotomy.png)
+[原址](https://xkcd.com//2624) [下载](https://imgs.xkcd.com/comics/voyager_wires.png)
 
 
 
 ## 随机漫画
-### Captain Picard Tea Order
-No.2570
-![图片不见了~~~](https://imgs.xkcd.com/comics/captain_picard_tea_order.png)
+### Angular Diameter Turnaround
+No.2622
+![图片不见了~~~](https://imgs.xkcd.com/comics/angular_diameter_turnaround.png)
 
-[原址](https://xkcd.com//2570) [下载](https://imgs.xkcd.com/comics/captain_picard_tea_order.png)
-
-
-
-### Alien Observers
-No.2572
-![图片不见了~~~](https://imgs.xkcd.com/comics/alien_observers.png)
-
-[原址](https://xkcd.com//2572) [下载](https://imgs.xkcd.com/comics/alien_observers.png)
+[原址](https://xkcd.com//2622) [下载](https://imgs.xkcd.com/comics/angular_diameter_turnaround.png)
 
 
 
-### Throat and Nasal Passages
-No.2563
-![图片不见了~~~](https://imgs.xkcd.com/comics/throat_and_nasal_passages.png)
+### 2
+No.2614
+![图片不见了~~~](https://imgs.xkcd.com/comics/2.png)
 
-[原址](https://xkcd.com//2563) [下载](https://imgs.xkcd.com/comics/throat_and_nasal_passages.png)
+[原址](https://xkcd.com//2614) [下载](https://imgs.xkcd.com/comics/2.png)
+
+
+
+### Goofs
+No.2623
+![图片不见了~~~](https://imgs.xkcd.com/comics/goofs.png)
+
+[原址](https://xkcd.com//2623) [下载](https://imgs.xkcd.com/comics/goofs.png)
 
 
 
