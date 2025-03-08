@@ -7,36 +7,36 @@
 
 
 ## 最新漫画
-### Confounding Variables
-No.2560
-![图片不见了~~~](https://imgs.xkcd.com/comics/confounding_variables.png)
+### False Dichotomy
+No.2592
+![图片不见了~~~](https://imgs.xkcd.com/comics/false_dichotomy.png)
 
-[原址](https://xkcd.com//2560) [下载](https://imgs.xkcd.com/comics/confounding_variables.png)
+[原址](https://xkcd.com//2592) [下载](https://imgs.xkcd.com/comics/false_dichotomy.png)
 
 
 
 ## 随机漫画
-### Gift Exchange
-No.2554
-![图片不见了~~~](https://imgs.xkcd.com/comics/gift_exchange.png)
+### Captain Picard Tea Order
+No.2570
+![图片不见了~~~](https://imgs.xkcd.com/comics/captain_picard_tea_order.png)
 
-[原址](https://xkcd.com//2554) [下载](https://imgs.xkcd.com/comics/gift_exchange.png)
-
-
-
-### Heart-Stopping Texts
-No.2544
-![图片不见了~~~](https://imgs.xkcd.com/comics/heart_stopping_texts.png)
-
-[原址](https://xkcd.com//2544) [下载](https://imgs.xkcd.com/comics/heart_stopping_texts.png)
+[原址](https://xkcd.com//2570) [下载](https://imgs.xkcd.com/comics/captain_picard_tea_order.png)
 
 
 
-### TTSLTSWBD
-No.2540
-![图片不见了~~~](https://imgs.xkcd.com/comics/ttsltswbd.png)
+### Alien Observers
+No.2572
+![图片不见了~~~](https://imgs.xkcd.com/comics/alien_observers.png)
 
-[原址](https://xkcd.com//2540) [下载](https://imgs.xkcd.com/comics/ttsltswbd.png)
+[原址](https://xkcd.com//2572) [下载](https://imgs.xkcd.com/comics/alien_observers.png)
+
+
+
+### Throat and Nasal Passages
+No.2563
+![图片不见了~~~](https://imgs.xkcd.com/comics/throat_and_nasal_passages.png)
+
+[原址](https://xkcd.com//2563) [下载](https://imgs.xkcd.com/comics/throat_and_nasal_passages.png)
 
 
 
