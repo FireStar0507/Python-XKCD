@@ -7,36 +7,36 @@
 
 
 ## 最新漫画
-### Scientific Field Prefixes
-No.2656
-![图片不见了~~~](https://imgs.xkcd.com/comics/scientific_field_prefixes.png)
+### Bubble Universes
+No.2688
+![图片不见了~~~](https://imgs.xkcd.com/comics/bubble_universes.png)
 
-[原址](https://xkcd.com//2656) [下载](https://imgs.xkcd.com/comics/scientific_field_prefixes.png)
+[原址](https://xkcd.com//2688) [下载](https://imgs.xkcd.com/comics/bubble_universes.png)
 
 
 
 ## 随机漫画
-### Types of Scopes
-No.2627
-![图片不见了~~~](https://imgs.xkcd.com/comics/types_of_scopes.png)
+### Cursed mRNA Cocktail
+No.2673
+![图片不见了~~~](https://imgs.xkcd.com/comics/cursed_mrna_cocktail.png)
 
-[原址](https://xkcd.com//2627) [下载](https://imgs.xkcd.com/comics/types_of_scopes.png)
-
-
-
-### fMRI Billboard
-No.2644
-![图片不见了~~~](https://imgs.xkcd.com/comics/fmri_billboard.png)
-
-[原址](https://xkcd.com//2644) [下载](https://imgs.xkcd.com/comics/fmri_billboard.png)
+[原址](https://xkcd.com//2673) [下载](https://imgs.xkcd.com/comics/cursed_mrna_cocktail.png)
 
 
 
-### Mouse Turbines
-No.2641
-![图片不见了~~~](https://imgs.xkcd.com/comics/mouse_turbines.png)
+### Wing Lift
+No.2678
+![图片不见了~~~](https://imgs.xkcd.com/comics/wing_lift.png)
 
-[原址](https://xkcd.com//2641) [下载](https://imgs.xkcd.com/comics/mouse_turbines.png)
+[原址](https://xkcd.com//2678) [下载](https://imgs.xkcd.com/comics/wing_lift.png)
+
+
+
+### Everyday Carry
+No.2674
+![图片不见了~~~](https://imgs.xkcd.com/comics/everyday_carry.png)
+
+[原址](https://xkcd.com//2674) [下载](https://imgs.xkcd.com/comics/everyday_carry.png)
 
 
 
