@@ -7,36 +7,36 @@
 
 
 ## 最新漫画
-### Bubble Universes
-No.2688
-![图片不见了~~~](https://imgs.xkcd.com/comics/bubble_universes.png)
+### Biology vs Robotics
+No.2720
+![图片不见了~~~](https://imgs.xkcd.com/comics/biology_vs_robotics.png)
 
-[原址](https://xkcd.com//2688) [下载](https://imgs.xkcd.com/comics/bubble_universes.png)
+[原址](https://xkcd.com//2720) [下载](https://imgs.xkcd.com/comics/biology_vs_robotics.png)
 
 
 
 ## 随机漫画
-### Cursed mRNA Cocktail
-No.2673
-![图片不见了~~~](https://imgs.xkcd.com/comics/cursed_mrna_cocktail.png)
+### Faucet
+No.2704
+![图片不见了~~~](https://imgs.xkcd.com/comics/faucet.png)
 
-[原址](https://xkcd.com//2673) [下载](https://imgs.xkcd.com/comics/cursed_mrna_cocktail.png)
-
-
-
-### Wing Lift
-No.2678
-![图片不见了~~~](https://imgs.xkcd.com/comics/wing_lift.png)
-
-[原址](https://xkcd.com//2678) [下载](https://imgs.xkcd.com/comics/wing_lift.png)
+[原址](https://xkcd.com//2704) [下载](https://imgs.xkcd.com/comics/faucet.png)
 
 
 
-### Everyday Carry
-No.2674
-![图片不见了~~~](https://imgs.xkcd.com/comics/everyday_carry.png)
+### Feature Comparison
+No.2699
+![图片不见了~~~](https://imgs.xkcd.com/comics/feature_comparison.png)
 
-[原址](https://xkcd.com//2674) [下载](https://imgs.xkcd.com/comics/everyday_carry.png)
+[原址](https://xkcd.com//2699) [下载](https://imgs.xkcd.com/comics/feature_comparison.png)
+
+
+
+### Astronomy Numbers
+No.2707
+![图片不见了~~~](https://imgs.xkcd.com/comics/astronomy_numbers.png)
+
+[原址](https://xkcd.com//2707) [下载](https://imgs.xkcd.com/comics/astronomy_numbers.png)
 
 
 
