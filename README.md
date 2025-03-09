@@ -7,36 +7,36 @@
 
 
 ## 最新漫画
-### Voyager Wires
-No.2624
-![图片不见了~~~](https://imgs.xkcd.com/comics/voyager_wires.png)
+### Scientific Field Prefixes
+No.2656
+![图片不见了~~~](https://imgs.xkcd.com/comics/scientific_field_prefixes.png)
 
-[原址](https://xkcd.com//2624) [下载](https://imgs.xkcd.com/comics/voyager_wires.png)
+[原址](https://xkcd.com//2656) [下载](https://imgs.xkcd.com/comics/scientific_field_prefixes.png)
 
 
 
 ## 随机漫画
-### Angular Diameter Turnaround
-No.2622
-![图片不见了~~~](https://imgs.xkcd.com/comics/angular_diameter_turnaround.png)
+### Types of Scopes
+No.2627
+![图片不见了~~~](https://imgs.xkcd.com/comics/types_of_scopes.png)
 
-[原址](https://xkcd.com//2622) [下载](https://imgs.xkcd.com/comics/angular_diameter_turnaround.png)
-
-
-
-### 2
-No.2614
-![图片不见了~~~](https://imgs.xkcd.com/comics/2.png)
-
-[原址](https://xkcd.com//2614) [下载](https://imgs.xkcd.com/comics/2.png)
+[原址](https://xkcd.com//2627) [下载](https://imgs.xkcd.com/comics/types_of_scopes.png)
 
 
 
-### Goofs
-No.2623
-![图片不见了~~~](https://imgs.xkcd.com/comics/goofs.png)
+### fMRI Billboard
+No.2644
+![图片不见了~~~](https://imgs.xkcd.com/comics/fmri_billboard.png)
 
-[原址](https://xkcd.com//2623) [下载](https://imgs.xkcd.com/comics/goofs.png)
+[原址](https://xkcd.com//2644) [下载](https://imgs.xkcd.com/comics/fmri_billboard.png)
+
+
+
+### Mouse Turbines
+No.2641
+![图片不见了~~~](https://imgs.xkcd.com/comics/mouse_turbines.png)
+
+[原址](https://xkcd.com//2641) [下载](https://imgs.xkcd.com/comics/mouse_turbines.png)
 
 
 
