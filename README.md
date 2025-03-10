@@ -7,36 +7,36 @@
 
 
 ## 最新漫画
-### Drainage Basins
-No.2784
-![图片不见了~~~](https://imgs.xkcd.com/comics/drainage_basins.png)
+### Types of Solar Eclipse
+No.2816
+![图片不见了~~~](https://imgs.xkcd.com/comics/types_of_solar_eclipse.png)
 
-[原址](https://xkcd.com//2784) [下载](https://imgs.xkcd.com/comics/drainage_basins.png)
+[原址](https://xkcd.com//2816) [下载](https://imgs.xkcd.com/comics/types_of_solar_eclipse.png)
 
 
 
 ## 随机漫画
-### Helium Reserve
-No.2766
-![图片不见了~~~](https://imgs.xkcd.com/comics/helium_reserve.png)
+### Garden Path Sentence
+No.2793
+![图片不见了~~~](https://imgs.xkcd.com/comics/garden_path_sentence.png)
 
-[原址](https://xkcd.com//2766) [下载](https://imgs.xkcd.com/comics/helium_reserve.png)
-
-
-
-### Recipe Relativity
-No.2767
-![图片不见了~~~](https://imgs.xkcd.com/comics/recipe_relativity.png)
-
-[原址](https://xkcd.com//2767) [下载](https://imgs.xkcd.com/comics/recipe_relativity.png)
+[原址](https://xkcd.com//2793) [下载](https://imgs.xkcd.com/comics/garden_path_sentence.png)
 
 
 
-### Escape Speed
-No.2765
-![图片不见了~~~](https://imgs.xkcd.com/comics/escape_speed.png)
+### Geohydrotypography
+No.2803
+![图片不见了~~~](https://imgs.xkcd.com/comics/geohydrotypography.png)
 
-[原址](https://xkcd.com//2765) [下载](https://imgs.xkcd.com/comics/escape_speed.png)
+[原址](https://xkcd.com//2803) [下载](https://imgs.xkcd.com/comics/geohydrotypography.png)
+
+
+
+### Perseids Pronunciation
+No.2814
+![图片不见了~~~](https://imgs.xkcd.com/comics/perseids_pronunciation.png)
+
+[原址](https://xkcd.com//2814) [下载](https://imgs.xkcd.com/comics/perseids_pronunciation.png)
 
 
 
