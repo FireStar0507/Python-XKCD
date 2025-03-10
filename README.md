@@ -7,36 +7,36 @@
 
 
 ## 最新漫画
-### Biology vs Robotics
-No.2720
-![图片不见了~~~](https://imgs.xkcd.com/comics/biology_vs_robotics.png)
+### Salt Dome
+No.2752
+![图片不见了~~~](https://imgs.xkcd.com/comics/salt_dome.png)
 
-[原址](https://xkcd.com//2720) [下载](https://imgs.xkcd.com/comics/biology_vs_robotics.png)
+[原址](https://xkcd.com//2752) [下载](https://imgs.xkcd.com/comics/salt_dome.png)
 
 
 
 ## 随机漫画
-### Faucet
-No.2704
-![图片不见了~~~](https://imgs.xkcd.com/comics/faucet.png)
+### Size Comparisons
+No.2733
+![图片不见了~~~](https://imgs.xkcd.com/comics/size_comparisons.png)
 
-[原址](https://xkcd.com//2704) [下载](https://imgs.xkcd.com/comics/faucet.png)
-
-
-
-### Feature Comparison
-No.2699
-![图片不见了~~~](https://imgs.xkcd.com/comics/feature_comparison.png)
-
-[原址](https://xkcd.com//2699) [下载](https://imgs.xkcd.com/comics/feature_comparison.png)
+[原址](https://xkcd.com//2733) [下载](https://imgs.xkcd.com/comics/size_comparisons.png)
 
 
 
-### Astronomy Numbers
-No.2707
-![图片不见了~~~](https://imgs.xkcd.com/comics/astronomy_numbers.png)
+### Square Packing
+No.2740
+![图片不见了~~~](https://imgs.xkcd.com/comics/square_packing.png)
 
-[原址](https://xkcd.com//2707) [下载](https://imgs.xkcd.com/comics/astronomy_numbers.png)
+[原址](https://xkcd.com//2740) [下载](https://imgs.xkcd.com/comics/square_packing.png)
+
+
+
+### Omniknot
+No.2738
+![图片不见了~~~](https://imgs.xkcd.com/comics/omniknot.png)
+
+[原址](https://xkcd.com//2738) [下载](https://imgs.xkcd.com/comics/omniknot.png)
 
 
 
