@@ -7,36 +7,36 @@
 
 
 ## 最新漫画
-### Sheet Bend
-No.2880
-![图片不见了~~~](https://imgs.xkcd.com/comics/sheet_bend.png)
+### Cursive Letters
+No.2912
+![图片不见了~~~](https://imgs.xkcd.com/comics/cursive_letters.png)
 
-[原址](https://xkcd.com//2880) [下载](https://imgs.xkcd.com/comics/sheet_bend.png)
+[原址](https://xkcd.com//2912) [下载](https://imgs.xkcd.com/comics/cursive_letters.png)
 
 
 
 ## 随机漫画
-### Iceland
-No.2874
-![图片不见了~~~](https://imgs.xkcd.com/comics/iceland.png)
+### Minnesota
+No.2887
+![图片不见了~~~](https://imgs.xkcd.com/comics/minnesota.png)
 
-[原址](https://xkcd.com//2874) [下载](https://imgs.xkcd.com/comics/iceland.png)
-
-
-
-### Hydrothermal Vents
-No.2872
-![图片不见了~~~](https://imgs.xkcd.com/comics/hydrothermal_vents.png)
-
-[原址](https://xkcd.com//2872) [下载](https://imgs.xkcd.com/comics/hydrothermal_vents.png)
+[原址](https://xkcd.com//2887) [下载](https://imgs.xkcd.com/comics/minnesota.png)
 
 
 
-### Under the Stars
-No.2849
-![图片不见了~~~](https://imgs.xkcd.com/comics/under_the_stars.png)
+### Relationship Advice
+No.2890
+![图片不见了~~~](https://imgs.xkcd.com/comics/relationship_advice.png)
 
-[原址](https://xkcd.com//2849) [下载](https://imgs.xkcd.com/comics/under_the_stars.png)
+[原址](https://xkcd.com//2890) [下载](https://imgs.xkcd.com/comics/relationship_advice.png)
+
+
+
+### Banana Prices
+No.2892
+![图片不见了~~~](https://imgs.xkcd.com/comics/banana_prices.png)
+
+[原址](https://xkcd.com//2892) [下载](https://imgs.xkcd.com/comics/banana_prices.png)
 
 
 
