@@ -7,36 +7,36 @@
 
 
 ## 最新漫画
-### Types of Solar Eclipse
-No.2816
-![图片不见了~~~](https://imgs.xkcd.com/comics/types_of_solar_eclipse.png)
+### Breaker Box
+No.2848
+![图片不见了~~~](https://imgs.xkcd.com/comics/breaker_box.png)
 
-[原址](https://xkcd.com//2816) [下载](https://imgs.xkcd.com/comics/types_of_solar_eclipse.png)
+[原址](https://xkcd.com//2848) [下载](https://imgs.xkcd.com/comics/breaker_box.png)
 
 
 
 ## 随机漫画
-### Garden Path Sentence
-No.2793
-![图片不见了~~~](https://imgs.xkcd.com/comics/garden_path_sentence.png)
+### A Halloween Carol
+No.2836
+![图片不见了~~~](https://imgs.xkcd.com/comics/a_halloween_carol.png)
 
-[原址](https://xkcd.com//2793) [下载](https://imgs.xkcd.com/comics/garden_path_sentence.png)
-
-
-
-### Geohydrotypography
-No.2803
-![图片不见了~~~](https://imgs.xkcd.com/comics/geohydrotypography.png)
-
-[原址](https://xkcd.com//2803) [下载](https://imgs.xkcd.com/comics/geohydrotypography.png)
+[原址](https://xkcd.com//2836) [下载](https://imgs.xkcd.com/comics/a_halloween_carol.png)
 
 
 
-### Perseids Pronunciation
-No.2814
-![图片不见了~~~](https://imgs.xkcd.com/comics/perseids_pronunciation.png)
+### Daylight Saving Choice
+No.2846
+![图片不见了~~~](https://imgs.xkcd.com/comics/daylight_saving_choice.png)
 
-[原址](https://xkcd.com//2814) [下载](https://imgs.xkcd.com/comics/perseids_pronunciation.png)
+[原址](https://xkcd.com//2846) [下载](https://imgs.xkcd.com/comics/daylight_saving_choice.png)
+
+
+
+### Haunted House
+No.2830
+![图片不见了~~~](https://imgs.xkcd.com/comics/haunted_house.png)
+
+[原址](https://xkcd.com//2830) [下载](https://imgs.xkcd.com/comics/haunted_house.png)
 
 
 
