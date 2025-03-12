@@ -7,36 +7,36 @@
 
 
 ## 最新漫画
-### Magnet Fishing
-No.2944
-![图片不见了~~~](https://imgs.xkcd.com/comics/magnet_fishing.png)
+### Time Traveler Causes of Death
+No.2976
+![图片不见了~~~](https://imgs.xkcd.com/comics/time_traveler_causes_of_death.png)
 
-[原址](https://xkcd.com//2944) [下载](https://imgs.xkcd.com/comics/magnet_fishing.png)
+[原址](https://xkcd.com//2976) [下载](https://imgs.xkcd.com/comics/time_traveler_causes_of_death.png)
 
 
 
 ## 随机漫画
-### Ocean Loop
-No.2935
-![图片不见了~~~](https://imgs.xkcd.com/comics/ocean_loop.png)
+### Meteor Shower PSA
+No.2970
+![图片不见了~~~](https://imgs.xkcd.com/comics/meteor_shower_psa.png)
 
-[原址](https://xkcd.com//2935) [下载](https://imgs.xkcd.com/comics/ocean_loop.png)
-
-
-
-### Eclipse Path Maps
-No.2921
-![图片不见了~~~](https://imgs.xkcd.com/comics/eclipse_path_maps.png)
-
-[原址](https://xkcd.com//2921) [下载](https://imgs.xkcd.com/comics/eclipse_path_maps.png)
+[原址](https://xkcd.com//2970) [下载](https://imgs.xkcd.com/comics/meteor_shower_psa.png)
 
 
 
-### Software Testing Day
-No.2928
-![图片不见了~~~](https://imgs.xkcd.com/comics/software_testing_day.png)
+### Storage Tanks
+No.2974
+![图片不见了~~~](https://imgs.xkcd.com/comics/storage_tanks.png)
 
-[原址](https://xkcd.com//2928) [下载](https://imgs.xkcd.com/comics/software_testing_day.png)
+[原址](https://xkcd.com//2974) [下载](https://imgs.xkcd.com/comics/storage_tanks.png)
+
+
+
+### Organ Meanings
+No.2960
+![图片不见了~~~](https://imgs.xkcd.com/comics/organ_meanings.png)
+
+[原址](https://xkcd.com//2960) [下载](https://imgs.xkcd.com/comics/organ_meanings.png)
 
 
 
