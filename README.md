@@ -7,36 +7,36 @@
 
 
 ## 最新漫画
-### Cursive Letters
-No.2912
-![图片不见了~~~](https://imgs.xkcd.com/comics/cursive_letters.png)
+### Magnet Fishing
+No.2944
+![图片不见了~~~](https://imgs.xkcd.com/comics/magnet_fishing.png)
 
-[原址](https://xkcd.com//2912) [下载](https://imgs.xkcd.com/comics/cursive_letters.png)
+[原址](https://xkcd.com//2944) [下载](https://imgs.xkcd.com/comics/magnet_fishing.png)
 
 
 
 ## 随机漫画
-### Minnesota
-No.2887
-![图片不见了~~~](https://imgs.xkcd.com/comics/minnesota.png)
+### Ocean Loop
+No.2935
+![图片不见了~~~](https://imgs.xkcd.com/comics/ocean_loop.png)
 
-[原址](https://xkcd.com//2887) [下载](https://imgs.xkcd.com/comics/minnesota.png)
-
-
-
-### Relationship Advice
-No.2890
-![图片不见了~~~](https://imgs.xkcd.com/comics/relationship_advice.png)
-
-[原址](https://xkcd.com//2890) [下载](https://imgs.xkcd.com/comics/relationship_advice.png)
+[原址](https://xkcd.com//2935) [下载](https://imgs.xkcd.com/comics/ocean_loop.png)
 
 
 
-### Banana Prices
-No.2892
-![图片不见了~~~](https://imgs.xkcd.com/comics/banana_prices.png)
+### Eclipse Path Maps
+No.2921
+![图片不见了~~~](https://imgs.xkcd.com/comics/eclipse_path_maps.png)
 
-[原址](https://xkcd.com//2892) [下载](https://imgs.xkcd.com/comics/banana_prices.png)
+[原址](https://xkcd.com//2921) [下载](https://imgs.xkcd.com/comics/eclipse_path_maps.png)
+
+
+
+### Software Testing Day
+No.2928
+![图片不见了~~~](https://imgs.xkcd.com/comics/software_testing_day.png)
+
+[原址](https://xkcd.com//2928) [下载](https://imgs.xkcd.com/comics/software_testing_day.png)
 
 
 
